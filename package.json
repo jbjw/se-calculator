@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jbjw/se-calculator/issues"
   },
-  "homepage": "https://github.com/jbjw/se-calculator#readme"
+  "homepage": "https://github.com/jbjw/se-calculator#readme",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
 }

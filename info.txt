@@ -1,0 +1,31 @@
+AmmoMagazines.sbc is just for mass and volume of magazine items
+PhysicalItems.sbc is just for mass and volume of ores, tools
+Components.sbc is just for mass and volume of components
+
+Blueprints.sbc contains ore refining info, ingredients, components, etc
+
+
+CubeBlocks.sbc is for built blocks, contains needed components and build times
+
+
+
+
+Blueprints
+===
+Ore
+Ingot
+Component
+AmmoMagazine
+PhysicalGunObject
+OxygenContainerObject (borked tho?)
+GasContainerObject
+
+
+PhysicalItems
+===
+Ore
+Ingot
+PhysicalGunObject
+TreeObject
+
+ores or ingots should be classed as fundamental
