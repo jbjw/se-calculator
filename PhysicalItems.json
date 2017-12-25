@@ -1,356 +1,356 @@
 [
-  {
-    "name": "stone",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "iron",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "nickel",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "cobalt",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "magnesium",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "silicon",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "silver",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "gold",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "platinum",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "uranium",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "stone",
-    "category": "ingot",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "iron",
-    "category": "ingot",
-    "mass": "1",
-    "volume": "0.127"
-  },
-  {
-    "name": "nickel",
-    "category": "ingot",
-    "mass": "1",
-    "volume": "0.112"
-  },
-  {
-    "name": "cobalt",
-    "category": "ingot",
-    "mass": "1",
-    "volume": "0.112"
-  },
-  {
-    "name": "magnesium",
-    "category": "ingot",
-    "mass": "1",
-    "volume": "0.575"
-  },
-  {
-    "name": "silicon",
-    "category": "ingot",
-    "mass": "1",
-    "volume": "0.429"
-  },
-  {
-    "name": "silver",
-    "category": "ingot",
-    "mass": "1",
-    "volume": "0.095"
-  },
-  {
-    "name": "gold",
-    "category": "ingot",
-    "mass": "1",
-    "volume": "0.052"
-  },
-  {
-    "name": "platinum",
-    "category": "ingot",
-    "mass": "1",
-    "volume": "0.047"
-  },
-  {
-    "name": "uranium",
-    "category": "ingot",
-    "mass": "1",
-    "volume": "0.052"
-  },
-  {
-    "name": "automaticrifleitem",
-    "category": "physicalgunobject",
-    "mass": "3",
-    "volume": "14"
-  },
-  {
-    "name": "preciseautomaticrifleitem",
-    "category": "physicalgunobject",
-    "mass": "3",
-    "volume": "14"
-  },
-  {
-    "name": "rapidfireautomaticrifleitem",
-    "category": "physicalgunobject",
-    "mass": "3",
-    "volume": "14"
-  },
-  {
-    "name": "ultimateautomaticrifleitem",
-    "category": "physicalgunobject",
-    "mass": "3",
-    "volume": "14"
-  },
-  {
-    "name": "oxygenbottle",
-    "category": "oxygencontainerobject",
-    "mass": "30",
-    "volume": "120"
-  },
-  {
-    "name": "hydrogenbottle",
-    "category": "gascontainerobject",
-    "mass": "30",
-    "volume": "120"
-  },
-  {
-    "name": "welderitem",
-    "category": "physicalgunobject",
-    "mass": "5",
-    "volume": "8"
-  },
-  {
-    "name": "welder2item",
-    "category": "physicalgunobject",
-    "mass": "5",
-    "volume": "8"
-  },
-  {
-    "name": "welder3item",
-    "category": "physicalgunobject",
-    "mass": "5",
-    "volume": "8"
-  },
-  {
-    "name": "welder4item",
-    "category": "physicalgunobject",
-    "mass": "5",
-    "volume": "8"
-  },
-  {
-    "name": "anglegrinderitem",
-    "category": "physicalgunobject",
-    "mass": "3",
-    "volume": "20"
-  },
-  {
-    "name": "anglegrinder2item",
-    "category": "physicalgunobject",
-    "mass": "3",
-    "volume": "20"
-  },
-  {
-    "name": "anglegrinder3item",
-    "category": "physicalgunobject",
-    "mass": "3",
-    "volume": "20"
-  },
-  {
-    "name": "anglegrinder4item",
-    "category": "physicalgunobject",
-    "mass": "3",
-    "volume": "20"
-  },
-  {
-    "name": "handdrillitem",
-    "category": "physicalgunobject",
-    "mass": "22",
-    "volume": "25"
-  },
-  {
-    "name": "handdrill2item",
-    "category": "physicalgunobject",
-    "mass": "22",
-    "volume": "25"
-  },
-  {
-    "name": "handdrill3item",
-    "category": "physicalgunobject",
-    "mass": "22",
-    "volume": "25"
-  },
-  {
-    "name": "handdrill4item",
-    "category": "physicalgunobject",
-    "mass": "22",
-    "volume": "25"
-  },
-  {
-    "name": "cubeplaceritem",
-    "category": "physicalgunobject",
-    "mass": "1",
-    "volume": "1"
-  },
-  {
-    "name": "scrap",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.254"
-  },
-  {
-    "name": "scrap",
-    "category": "ingot",
-    "mass": "1",
-    "volume": "0.254"
-  },
-  {
-    "name": "ice",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "organic",
-    "category": "ore",
-    "mass": "1",
-    "volume": "0.37"
-  },
-  {
-    "name": "deserttree",
-    "category": "treeobject",
-    "mass": "1500",
-    "volume": "8000"
-  },
-  {
-    "name": "deserttreedead",
-    "category": "treeobject",
-    "mass": "1500",
-    "volume": "8000"
-  },
-  {
-    "name": "leaftree",
-    "category": "treeobject",
-    "mass": "1500",
-    "volume": "8000"
-  },
-  {
-    "name": "pinetree",
-    "category": "treeobject",
-    "mass": "1500",
-    "volume": "8000"
-  },
-  {
-    "name": "pinetreesnow",
-    "category": "treeobject",
-    "mass": "1500",
-    "volume": "8000"
-  },
-  {
-    "name": "leaftreemedium",
-    "category": "treeobject",
-    "mass": "1300",
-    "volume": "8000"
-  },
-  {
-    "name": "deserttreemedium",
-    "category": "treeobject",
-    "mass": "1300",
-    "volume": "8000"
-  },
-  {
-    "name": "deserttreedeadmedium",
-    "category": "treeobject",
-    "mass": "1300",
-    "volume": "8000"
-  },
-  {
-    "name": "pinetreemedium",
-    "category": "treeobject",
-    "mass": "1300",
-    "volume": "8000"
-  },
-  {
-    "name": "pinetreesnowmedium",
-    "category": "treeobject",
-    "mass": "1300",
-    "volume": "8000"
-  },
-  {
-    "name": "deadbushmedium",
-    "category": "treeobject",
-    "mass": "1300",
-    "volume": "8000"
-  },
-  {
-    "name": "desertbushmedium",
-    "category": "treeobject",
-    "mass": "1300",
-    "volume": "8000"
-  },
-  {
-    "name": "leafbushmedium_var1",
-    "category": "treeobject",
-    "mass": "1300",
-    "volume": "8000"
-  },
-  {
-    "name": "leafbushmedium_var2",
-    "category": "treeobject",
-    "mass": "1300",
-    "volume": "8000"
-  },
-  {
-    "name": "pinebushmedium",
-    "category": "treeobject",
-    "mass": "1300",
-    "volume": "8000"
-  },
-  {
-    "name": "snowpinebushmedium",
-    "category": "treeobject",
-    "mass": "1300",
-    "volume": "8000"
-  }
+	{
+		"name": "stone",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "iron",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "nickel",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "cobalt",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "magnesium",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "silicon",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "silver",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "gold",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "platinum",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "uranium",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "stone",
+		"category": "ingot",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "iron",
+		"category": "ingot",
+		"mass": "1",
+		"volume": "0.127"
+	},
+	{
+		"name": "nickel",
+		"category": "ingot",
+		"mass": "1",
+		"volume": "0.112"
+	},
+	{
+		"name": "cobalt",
+		"category": "ingot",
+		"mass": "1",
+		"volume": "0.112"
+	},
+	{
+		"name": "magnesium",
+		"category": "ingot",
+		"mass": "1",
+		"volume": "0.575"
+	},
+	{
+		"name": "silicon",
+		"category": "ingot",
+		"mass": "1",
+		"volume": "0.429"
+	},
+	{
+		"name": "silver",
+		"category": "ingot",
+		"mass": "1",
+		"volume": "0.095"
+	},
+	{
+		"name": "gold",
+		"category": "ingot",
+		"mass": "1",
+		"volume": "0.052"
+	},
+	{
+		"name": "platinum",
+		"category": "ingot",
+		"mass": "1",
+		"volume": "0.047"
+	},
+	{
+		"name": "uranium",
+		"category": "ingot",
+		"mass": "1",
+		"volume": "0.052"
+	},
+	{
+		"name": "automaticrifleitem",
+		"category": "physicalgunobject",
+		"mass": "3",
+		"volume": "14"
+	},
+	{
+		"name": "preciseautomaticrifleitem",
+		"category": "physicalgunobject",
+		"mass": "3",
+		"volume": "14"
+	},
+	{
+		"name": "rapidfireautomaticrifleitem",
+		"category": "physicalgunobject",
+		"mass": "3",
+		"volume": "14"
+	},
+	{
+		"name": "ultimateautomaticrifleitem",
+		"category": "physicalgunobject",
+		"mass": "3",
+		"volume": "14"
+	},
+	{
+		"name": "oxygenbottle",
+		"category": "oxygencontainerobject",
+		"mass": "30",
+		"volume": "120"
+	},
+	{
+		"name": "hydrogenbottle",
+		"category": "gascontainerobject",
+		"mass": "30",
+		"volume": "120"
+	},
+	{
+		"name": "welderitem",
+		"category": "physicalgunobject",
+		"mass": "5",
+		"volume": "8"
+	},
+	{
+		"name": "welder2item",
+		"category": "physicalgunobject",
+		"mass": "5",
+		"volume": "8"
+	},
+	{
+		"name": "welder3item",
+		"category": "physicalgunobject",
+		"mass": "5",
+		"volume": "8"
+	},
+	{
+		"name": "welder4item",
+		"category": "physicalgunobject",
+		"mass": "5",
+		"volume": "8"
+	},
+	{
+		"name": "anglegrinderitem",
+		"category": "physicalgunobject",
+		"mass": "3",
+		"volume": "20"
+	},
+	{
+		"name": "anglegrinder2item",
+		"category": "physicalgunobject",
+		"mass": "3",
+		"volume": "20"
+	},
+	{
+		"name": "anglegrinder3item",
+		"category": "physicalgunobject",
+		"mass": "3",
+		"volume": "20"
+	},
+	{
+		"name": "anglegrinder4item",
+		"category": "physicalgunobject",
+		"mass": "3",
+		"volume": "20"
+	},
+	{
+		"name": "handdrillitem",
+		"category": "physicalgunobject",
+		"mass": "22",
+		"volume": "25"
+	},
+	{
+		"name": "handdrill2item",
+		"category": "physicalgunobject",
+		"mass": "22",
+		"volume": "25"
+	},
+	{
+		"name": "handdrill3item",
+		"category": "physicalgunobject",
+		"mass": "22",
+		"volume": "25"
+	},
+	{
+		"name": "handdrill4item",
+		"category": "physicalgunobject",
+		"mass": "22",
+		"volume": "25"
+	},
+	{
+		"name": "cubeplaceritem",
+		"category": "physicalgunobject",
+		"mass": "1",
+		"volume": "1"
+	},
+	{
+		"name": "scrap",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.254"
+	},
+	{
+		"name": "scrap",
+		"category": "ingot",
+		"mass": "1",
+		"volume": "0.254"
+	},
+	{
+		"name": "ice",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "organic",
+		"category": "ore",
+		"mass": "1",
+		"volume": "0.37"
+	},
+	{
+		"name": "deserttree",
+		"category": "treeobject",
+		"mass": "1500",
+		"volume": "8000"
+	},
+	{
+		"name": "deserttreedead",
+		"category": "treeobject",
+		"mass": "1500",
+		"volume": "8000"
+	},
+	{
+		"name": "leaftree",
+		"category": "treeobject",
+		"mass": "1500",
+		"volume": "8000"
+	},
+	{
+		"name": "pinetree",
+		"category": "treeobject",
+		"mass": "1500",
+		"volume": "8000"
+	},
+	{
+		"name": "pinetreesnow",
+		"category": "treeobject",
+		"mass": "1500",
+		"volume": "8000"
+	},
+	{
+		"name": "leaftreemedium",
+		"category": "treeobject",
+		"mass": "1300",
+		"volume": "8000"
+	},
+	{
+		"name": "deserttreemedium",
+		"category": "treeobject",
+		"mass": "1300",
+		"volume": "8000"
+	},
+	{
+		"name": "deserttreedeadmedium",
+		"category": "treeobject",
+		"mass": "1300",
+		"volume": "8000"
+	},
+	{
+		"name": "pinetreemedium",
+		"category": "treeobject",
+		"mass": "1300",
+		"volume": "8000"
+	},
+	{
+		"name": "pinetreesnowmedium",
+		"category": "treeobject",
+		"mass": "1300",
+		"volume": "8000"
+	},
+	{
+		"name": "deadbushmedium",
+		"category": "treeobject",
+		"mass": "1300",
+		"volume": "8000"
+	},
+	{
+		"name": "desertbushmedium",
+		"category": "treeobject",
+		"mass": "1300",
+		"volume": "8000"
+	},
+	{
+		"name": "leafbushmedium_var1",
+		"category": "treeobject",
+		"mass": "1300",
+		"volume": "8000"
+	},
+	{
+		"name": "leafbushmedium_var2",
+		"category": "treeobject",
+		"mass": "1300",
+		"volume": "8000"
+	},
+	{
+		"name": "pinebushmedium",
+		"category": "treeobject",
+		"mass": "1300",
+		"volume": "8000"
+	},
+	{
+		"name": "snowpinebushmedium",
+		"category": "treeobject",
+		"mass": "1300",
+		"volume": "8000"
+	}
 ]

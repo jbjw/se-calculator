@@ -44,15 +44,15 @@ dump("dataJSON/CubeBlocks.json", cubeBlocksJSON)
 var items = {}
 
 
-var categoryBlacklist = ["TreeObject"]
+var categoryBlacklist = [ "TreeObject" ]
 
-for (let json of ammoMagazinesJSON) {
+for ( let json of ammoMagazinesJSON ) {
 	var tmp = {}
 	tmp.subtype = json.Id[0].SubtypeId[0]
 	tmp.type = json.Id[0].TypeId[0]
 	tmp.name = `${tmp.subtype}_${tmp.type}`
-	tmp.mass = json.Mass[0]
-	tmp.volume = json.Volume[0]
+	tmp.mass = Number( json.Mass[0] )
+	tmp.volume = Number( json.Volume[0] )
 
 	if (!categoryBlacklist.includes(tmp.category)) {
 		items[tmp.name] = tmp
@@ -64,8 +64,8 @@ for (let json of physicalItemsJSON) {
 	tmp.subtype = json.Id[0].SubtypeId[0]
 	tmp.type = json.Id[0].TypeId[0]
 	tmp.name = `${tmp.subtype}_${tmp.type}`
-	tmp.mass = json.Mass[0]
-	tmp.volume = json.Volume[0]
+	tmp.mass = Number( json.Mass[0] )
+	tmp.volume = Number( json.Volume[0] )
 
 	if (!categoryBlacklist.includes(tmp.category)) {
 		items[tmp.name] = tmp
@@ -77,8 +77,8 @@ for (let json of componentsJSON) {
 	tmp.subtype = json.Id[0].SubtypeId[0]
 	tmp.type = json.Id[0].TypeId[0]
 	tmp.name = `${tmp.subtype}_${tmp.type}`
-	tmp.mass = json.Mass[0]
-	tmp.volume = json.Volume[0]
+	tmp.mass = Number( json.Mass[0] )
+	tmp.volume = Number( json.Volume[0] )
 
 	if (!categoryBlacklist.includes(tmp.category)) {
 		items[tmp.name] = tmp
@@ -87,28 +87,36 @@ for (let json of componentsJSON) {
 
 for (let json of blueprintsJSON) {
 	var result = {}
-	result.amount = json.Result[0].$.Amount // always 1?
+	result.amount = Number( json.Result[0].$.Amount )
 	result.subtype = json.Result[0].$.SubtypeId
 	result.type = json.Result[0].$.TypeId
 	result.name = `${result.subtype}_${result.type}`
 
 	var item = items[result.name]
-	item.time = json.BaseProductionTimeInSeconds[0]
-	item.ingredients = []
 
-	for (let ijson of json.Prerequisites[0].Item) {
-		var ingredient = {}
-		ingredient.amount = ijson.$.Amount
-		ingredient.subtype = ijson.$.SubtypeId
-		ingredient.type = ijson.$.TypeId
-		ingredient.name = `${ingredient.subtype}_${ingredient.type}`
-		item.ingredients.push(ingredient)
+	if ( item.ingredients === undefined ) {
+		item.time = Number( json.BaseProductionTimeInSeconds[0] )
+		item.amount = Number( json.Result[0].$.Amount )
+		item.ingredients = []
+
+		for (let ijson of json.Prerequisites[0].Item) {
+			var ingredient = {}
+			ingredient.amount = Number( ijson.$.Amount )
+			ingredient.subtype = ijson.$.SubtypeId
+			ingredient.type = ijson.$.TypeId
+			ingredient.name = `${ingredient.subtype}_${ingredient.type}`
+			item.ingredients.push( ingredient )
+		}
+	} else {
+		// already has ingredients, duplicat eentires like iron from scrap
 	}
+
+
 
 	// recipe name `${json.Id[0].SubtypeId[0]}_${json.Id[0].TypeId[0]}`
 }
 
-console.log(Object.values(items).filter(i => i.type == "AmmoMagazine" || i.type == "GasContainerObject" || i.type == "OxygenContainerObject").map(i => i.subtype))
+// console.log(Object.values(items).filter(i => i.type == "AmmoMagazine" || i.type == "GasContainerObject" || i.type == "OxygenContainerObject").map(i => i.subtype))
 
 for (let json of cubeBlocksJSON) {
 	var tmp = {}

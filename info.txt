@@ -4,11 +4,11 @@ Components.sbc is just for mass and volume of components
 
 Blueprints.sbc contains ore refining info, ingredients, components, etc
 
-
 CubeBlocks.sbc is for built blocks, contains needed components and build times
 
+items.json contains info on all items, ingredients, mass, etc
 
-
+prices.json contains prices for everything
 
 Blueprints
 ===

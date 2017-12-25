@@ -3,24 +3,25 @@
     "subtype": "NATO_5p56x45mm",
     "type": "AmmoMagazine",
     "name": "NATO_5p56x45mm_AmmoMagazine",
-    "mass": "0.45",
-    "volume": "0.2",
-    "time": "10",
+    "mass": 0.45,
+    "volume": 0.2,
+    "time": 10,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "0.8",
+        "amount": 0.8,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "0.2",
+        "amount": 0.2,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "0.15",
+        "amount": 0.15,
         "subtype": "Magnesium",
         "type": "Ingot",
         "name": "Magnesium_Ingot"
@@ -31,24 +32,25 @@
     "subtype": "NATO_25x184mm",
     "type": "AmmoMagazine",
     "name": "NATO_25x184mm_AmmoMagazine",
-    "mass": "35",
-    "volume": "16",
-    "time": "10",
+    "mass": 35,
+    "volume": 16,
+    "time": 10,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "40",
+        "amount": 40,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "3.0",
+        "amount": 3,
         "subtype": "Magnesium",
         "type": "Ingot",
         "name": "Magnesium_Ingot"
@@ -59,42 +61,43 @@
     "subtype": "Missile200mm",
     "type": "AmmoMagazine",
     "name": "Missile200mm_AmmoMagazine",
-    "mass": "45",
-    "volume": "60",
-    "time": "10",
+    "mass": 45,
+    "volume": 60,
+    "time": 10,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "55",
+        "amount": 55,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "7",
+        "amount": 7,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "0.2",
+        "amount": 0.2,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
       },
       {
-        "amount": "0.1",
+        "amount": 0.1,
         "subtype": "Uranium",
         "type": "Ingot",
         "name": "Uranium_Ingot"
       },
       {
-        "amount": "0.04",
+        "amount": 0.04,
         "subtype": "Platinum",
         "type": "Ingot",
         "name": "Platinum_Ingot"
       },
       {
-        "amount": "1.2",
+        "amount": 1.2,
         "subtype": "Magnesium",
         "type": "Ingot",
         "name": "Magnesium_Ingot"
@@ -105,85 +108,86 @@
     "subtype": "Stone",
     "type": "Ore",
     "name": "Stone_Ore",
-    "mass": "1",
-    "volume": "0.37"
+    "mass": 1,
+    "volume": 0.37
   },
   "Iron_Ore": {
     "subtype": "Iron",
     "type": "Ore",
     "name": "Iron_Ore",
-    "mass": "1",
-    "volume": "0.37"
+    "mass": 1,
+    "volume": 0.37
   },
   "Nickel_Ore": {
     "subtype": "Nickel",
     "type": "Ore",
     "name": "Nickel_Ore",
-    "mass": "1",
-    "volume": "0.37"
+    "mass": 1,
+    "volume": 0.37
   },
   "Cobalt_Ore": {
     "subtype": "Cobalt",
     "type": "Ore",
     "name": "Cobalt_Ore",
-    "mass": "1",
-    "volume": "0.37"
+    "mass": 1,
+    "volume": 0.37
   },
   "Magnesium_Ore": {
     "subtype": "Magnesium",
     "type": "Ore",
     "name": "Magnesium_Ore",
-    "mass": "1",
-    "volume": "0.37"
+    "mass": 1,
+    "volume": 0.37
   },
   "Silicon_Ore": {
     "subtype": "Silicon",
     "type": "Ore",
     "name": "Silicon_Ore",
-    "mass": "1",
-    "volume": "0.37"
+    "mass": 1,
+    "volume": 0.37
   },
   "Silver_Ore": {
     "subtype": "Silver",
     "type": "Ore",
     "name": "Silver_Ore",
-    "mass": "1",
-    "volume": "0.37"
+    "mass": 1,
+    "volume": 0.37
   },
   "Gold_Ore": {
     "subtype": "Gold",
     "type": "Ore",
     "name": "Gold_Ore",
-    "mass": "1",
-    "volume": "0.37"
+    "mass": 1,
+    "volume": 0.37
   },
   "Platinum_Ore": {
     "subtype": "Platinum",
     "type": "Ore",
     "name": "Platinum_Ore",
-    "mass": "1",
-    "volume": "0.37"
+    "mass": 1,
+    "volume": 0.37
   },
   "Uranium_Ore": {
     "subtype": "Uranium",
     "type": "Ore",
     "name": "Uranium_Ore",
-    "mass": "1",
-    "volume": "0.37"
+    "mass": 1,
+    "volume": 0.37
   },
   "Stone_Ingot": {
     "subtype": "Stone",
     "type": "Ingot",
     "name": "Stone_Ingot",
-    "mass": "1",
-    "volume": "0.37",
-    "time": "0.1",
+    "mass": 1,
+    "volume": 0.37,
+    "time": 0.1,
+    "amount": 0.9,
     "ingredients": [
       {
-        "amount": "1",
-        "subtype": "HydrogenBottle",
-        "type": "GasContainerObject",
-        "name": "HydrogenBottle_GasContainerObject"
+        "amount": 1,
+        "subtype": "Stone",
+        "type": "Ore",
+        "name": "Stone_Ore"
       }
     ]
   },
@@ -191,15 +195,16 @@
     "subtype": "Iron",
     "type": "Ingot",
     "name": "Iron_Ingot",
-    "mass": "1",
-    "volume": "0.127",
-    "time": "0.04",
+    "mass": 1,
+    "volume": 0.127,
+    "time": 0.05,
+    "amount": 0.7,
     "ingredients": [
       {
-        "amount": "1",
-        "subtype": "Scrap",
+        "amount": 1,
+        "subtype": "Iron",
         "type": "Ore",
-        "name": "Scrap_Ore"
+        "name": "Iron_Ore"
       }
     ]
   },
@@ -207,12 +212,13 @@
     "subtype": "Nickel",
     "type": "Ingot",
     "name": "Nickel_Ingot",
-    "mass": "1",
-    "volume": "0.112",
-    "time": "2",
+    "mass": 1,
+    "volume": 0.112,
+    "time": 2,
+    "amount": 0.4,
     "ingredients": [
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Nickel",
         "type": "Ore",
         "name": "Nickel_Ore"
@@ -223,12 +229,13 @@
     "subtype": "Cobalt",
     "type": "Ingot",
     "name": "Cobalt_Ingot",
-    "mass": "1",
-    "volume": "0.112",
-    "time": "4",
+    "mass": 1,
+    "volume": 0.112,
+    "time": 4,
+    "amount": 0.3,
     "ingredients": [
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Cobalt",
         "type": "Ore",
         "name": "Cobalt_Ore"
@@ -239,12 +246,13 @@
     "subtype": "Magnesium",
     "type": "Ingot",
     "name": "Magnesium_Ingot",
-    "mass": "1",
-    "volume": "0.575",
-    "time": "0.5",
+    "mass": 1,
+    "volume": 0.575,
+    "time": 0.5,
+    "amount": 0.007,
     "ingredients": [
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Magnesium",
         "type": "Ore",
         "name": "Magnesium_Ore"
@@ -255,12 +263,13 @@
     "subtype": "Silicon",
     "type": "Ingot",
     "name": "Silicon_Ingot",
-    "mass": "1",
-    "volume": "0.429",
-    "time": "0.6",
+    "mass": 1,
+    "volume": 0.429,
+    "time": 0.6,
+    "amount": 0.7,
     "ingredients": [
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Silicon",
         "type": "Ore",
         "name": "Silicon_Ore"
@@ -271,12 +280,13 @@
     "subtype": "Silver",
     "type": "Ingot",
     "name": "Silver_Ingot",
-    "mass": "1",
-    "volume": "0.095",
-    "time": "1",
+    "mass": 1,
+    "volume": 0.095,
+    "time": 1,
+    "amount": 0.1,
     "ingredients": [
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Silver",
         "type": "Ore",
         "name": "Silver_Ore"
@@ -287,12 +297,13 @@
     "subtype": "Gold",
     "type": "Ingot",
     "name": "Gold_Ingot",
-    "mass": "1",
-    "volume": "0.052",
-    "time": "0.4",
+    "mass": 1,
+    "volume": 0.052,
+    "time": 0.4,
+    "amount": 0.01,
     "ingredients": [
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Gold",
         "type": "Ore",
         "name": "Gold_Ore"
@@ -303,12 +314,13 @@
     "subtype": "Platinum",
     "type": "Ingot",
     "name": "Platinum_Ingot",
-    "mass": "1",
-    "volume": "0.047",
-    "time": "4",
+    "mass": 1,
+    "volume": 0.047,
+    "time": 4,
+    "amount": 0.005,
     "ingredients": [
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Platinum",
         "type": "Ore",
         "name": "Platinum_Ore"
@@ -319,12 +331,13 @@
     "subtype": "Uranium",
     "type": "Ingot",
     "name": "Uranium_Ingot",
-    "mass": "1",
-    "volume": "0.052",
-    "time": "4",
+    "mass": 1,
+    "volume": 0.052,
+    "time": 4,
+    "amount": 0.007,
     "ingredients": [
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Uranium",
         "type": "Ore",
         "name": "Uranium_Ore"
@@ -335,18 +348,19 @@
     "subtype": "AutomaticRifleItem",
     "type": "PhysicalGunObject",
     "name": "AutomaticRifleItem_PhysicalGunObject",
-    "mass": "3",
-    "volume": "14",
-    "time": "1",
+    "mass": 3,
+    "volume": 14,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
@@ -357,24 +371,25 @@
     "subtype": "PreciseAutomaticRifleItem",
     "type": "PhysicalGunObject",
     "name": "PreciseAutomaticRifleItem_PhysicalGunObject",
-    "mass": "3",
-    "volume": "14",
-    "time": "12",
+    "mass": 3,
+    "volume": 14,
+    "time": 12,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Cobalt",
         "type": "Ingot",
         "name": "Cobalt_Ingot"
@@ -385,18 +400,19 @@
     "subtype": "RapidFireAutomaticRifleItem",
     "type": "PhysicalGunObject",
     "name": "RapidFireAutomaticRifleItem_PhysicalGunObject",
-    "mass": "3",
-    "volume": "14",
-    "time": "12",
+    "mass": 3,
+    "volume": 14,
+    "time": 12,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "8",
+        "amount": 8,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
@@ -407,30 +423,31 @@
     "subtype": "UltimateAutomaticRifleItem",
     "type": "PhysicalGunObject",
     "name": "UltimateAutomaticRifleItem_PhysicalGunObject",
-    "mass": "3",
-    "volume": "14",
-    "time": "45",
+    "mass": 3,
+    "volume": 14,
+    "time": 45,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "4",
+        "amount": 4,
         "subtype": "Platinum",
         "type": "Ingot",
         "name": "Platinum_Ingot"
       },
       {
-        "amount": "6",
+        "amount": 6,
         "subtype": "Silver",
         "type": "Ingot",
         "name": "Silver_Ingot"
@@ -441,24 +458,25 @@
     "subtype": "OxygenBottle",
     "type": "OxygenContainerObject",
     "name": "OxygenBottle_OxygenContainerObject",
-    "mass": "30",
-    "volume": "120",
-    "time": "10",
+    "mass": 30,
+    "volume": 120,
+    "time": 10,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "80",
+        "amount": 80,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "10",
+        "amount": 10,
         "subtype": "Silver",
         "type": "Ingot",
         "name": "Silver_Ingot"
       },
       {
-        "amount": "30",
+        "amount": 30,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
@@ -469,24 +487,25 @@
     "subtype": "HydrogenBottle",
     "type": "GasContainerObject",
     "name": "HydrogenBottle_GasContainerObject",
-    "mass": "30",
-    "volume": "120",
-    "time": "10",
+    "mass": 30,
+    "volume": 120,
+    "time": 10,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "80",
+        "amount": 80,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "10",
+        "amount": 10,
         "subtype": "Silver",
         "type": "Ingot",
         "name": "Silver_Ingot"
       },
       {
-        "amount": "30",
+        "amount": 30,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
@@ -497,24 +516,25 @@
     "subtype": "WelderItem",
     "type": "PhysicalGunObject",
     "name": "WelderItem_PhysicalGunObject",
-    "mass": "5",
-    "volume": "8",
-    "time": "1",
+    "mass": 5,
+    "volume": 8,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "0.2",
+        "amount": 0.2,
         "subtype": "Cobalt",
         "type": "Ingot",
         "name": "Cobalt_Ingot"
@@ -525,30 +545,31 @@
     "subtype": "Welder2Item",
     "type": "PhysicalGunObject",
     "name": "Welder2Item_PhysicalGunObject",
-    "mass": "5",
-    "volume": "8",
-    "time": "12",
+    "mass": 5,
+    "volume": 8,
+    "time": 12,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "0.2",
+        "amount": 0.2,
         "subtype": "Cobalt",
         "type": "Ingot",
         "name": "Cobalt_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
@@ -559,30 +580,31 @@
     "subtype": "Welder3Item",
     "type": "PhysicalGunObject",
     "name": "Welder3Item_PhysicalGunObject",
-    "mass": "5",
-    "volume": "8",
-    "time": "36",
+    "mass": 5,
+    "volume": 8,
+    "time": 36,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "0.2",
+        "amount": 0.2,
         "subtype": "Cobalt",
         "type": "Ingot",
         "name": "Cobalt_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Silver",
         "type": "Ingot",
         "name": "Silver_Ingot"
@@ -593,30 +615,31 @@
     "subtype": "Welder4Item",
     "type": "PhysicalGunObject",
     "name": "Welder4Item_PhysicalGunObject",
-    "mass": "5",
-    "volume": "8",
-    "time": "50",
+    "mass": 5,
+    "volume": 8,
+    "time": 50,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "0.2",
+        "amount": 0.2,
         "subtype": "Cobalt",
         "type": "Ingot",
         "name": "Cobalt_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Platinum",
         "type": "Ingot",
         "name": "Platinum_Ingot"
@@ -627,30 +650,31 @@
     "subtype": "AngleGrinderItem",
     "type": "PhysicalGunObject",
     "name": "AngleGrinderItem_PhysicalGunObject",
-    "mass": "3",
-    "volume": "20",
-    "time": "1",
+    "mass": 3,
+    "volume": 20,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Cobalt",
         "type": "Ingot",
         "name": "Cobalt_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
@@ -661,30 +685,31 @@
     "subtype": "AngleGrinder2Item",
     "type": "PhysicalGunObject",
     "name": "AngleGrinder2Item_PhysicalGunObject",
-    "mass": "3",
-    "volume": "20",
-    "time": "12",
+    "mass": 3,
+    "volume": 20,
+    "time": 12,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Cobalt",
         "type": "Ingot",
         "name": "Cobalt_Ingot"
       },
       {
-        "amount": "6",
+        "amount": 6,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
@@ -695,36 +720,37 @@
     "subtype": "AngleGrinder3Item",
     "type": "PhysicalGunObject",
     "name": "AngleGrinder3Item_PhysicalGunObject",
-    "mass": "3",
-    "volume": "20",
-    "time": "36",
+    "mass": 3,
+    "volume": 20,
+    "time": 36,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Cobalt",
         "type": "Ingot",
         "name": "Cobalt_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Silver",
         "type": "Ingot",
         "name": "Silver_Ingot"
@@ -735,36 +761,37 @@
     "subtype": "AngleGrinder4Item",
     "type": "PhysicalGunObject",
     "name": "AngleGrinder4Item_PhysicalGunObject",
-    "mass": "3",
-    "volume": "20",
-    "time": "50",
+    "mass": 3,
+    "volume": 20,
+    "time": 50,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Cobalt",
         "type": "Ingot",
         "name": "Cobalt_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Platinum",
         "type": "Ingot",
         "name": "Platinum_Ingot"
@@ -775,24 +802,25 @@
     "subtype": "HandDrillItem",
     "type": "PhysicalGunObject",
     "name": "HandDrillItem_PhysicalGunObject",
-    "mass": "22",
-    "volume": "25",
-    "time": "1",
+    "mass": 22,
+    "volume": 25,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "20",
+        "amount": 20,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
@@ -803,24 +831,25 @@
     "subtype": "HandDrill2Item",
     "type": "PhysicalGunObject",
     "name": "HandDrill2Item_PhysicalGunObject",
-    "mass": "22",
-    "volume": "25",
-    "time": "12",
+    "mass": 22,
+    "volume": 25,
+    "time": 12,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "20",
+        "amount": 20,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
@@ -831,30 +860,31 @@
     "subtype": "HandDrill3Item",
     "type": "PhysicalGunObject",
     "name": "HandDrill3Item_PhysicalGunObject",
-    "mass": "22",
-    "volume": "25",
-    "time": "36",
+    "mass": 22,
+    "volume": 25,
+    "time": 36,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "20",
+        "amount": 20,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Silver",
         "type": "Ingot",
         "name": "Silver_Ingot"
@@ -865,30 +895,31 @@
     "subtype": "HandDrill4Item",
     "type": "PhysicalGunObject",
     "name": "HandDrill4Item_PhysicalGunObject",
-    "mass": "22",
-    "volume": "25",
-    "time": "50",
+    "mass": 22,
+    "volume": 25,
+    "time": 50,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "20",
+        "amount": 20,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Platinum",
         "type": "Ingot",
         "name": "Platinum_Ingot"
@@ -899,159 +930,160 @@
     "subtype": "CubePlacerItem",
     "type": "PhysicalGunObject",
     "name": "CubePlacerItem_PhysicalGunObject",
-    "mass": "1",
-    "volume": "1"
+    "mass": 1,
+    "volume": 1
   },
   "Scrap_Ore": {
     "subtype": "Scrap",
     "type": "Ore",
     "name": "Scrap_Ore",
-    "mass": "1",
-    "volume": "0.254"
+    "mass": 1,
+    "volume": 0.254
   },
   "Scrap_Ingot": {
     "subtype": "Scrap",
     "type": "Ingot",
     "name": "Scrap_Ingot",
-    "mass": "1",
-    "volume": "0.254"
+    "mass": 1,
+    "volume": 0.254
   },
   "Ice_Ore": {
     "subtype": "Ice",
     "type": "Ore",
     "name": "Ice_Ore",
-    "mass": "1",
-    "volume": "0.37"
+    "mass": 1,
+    "volume": 0.37
   },
   "Organic_Ore": {
     "subtype": "Organic",
     "type": "Ore",
     "name": "Organic_Ore",
-    "mass": "1",
-    "volume": "0.37"
+    "mass": 1,
+    "volume": 0.37
   },
   "DesertTree_TreeObject": {
     "subtype": "DesertTree",
     "type": "TreeObject",
     "name": "DesertTree_TreeObject",
-    "mass": "1500",
-    "volume": "8000"
+    "mass": 1500,
+    "volume": 8000
   },
   "DesertTreeDead_TreeObject": {
     "subtype": "DesertTreeDead",
     "type": "TreeObject",
     "name": "DesertTreeDead_TreeObject",
-    "mass": "1500",
-    "volume": "8000"
+    "mass": 1500,
+    "volume": 8000
   },
   "LeafTree_TreeObject": {
     "subtype": "LeafTree",
     "type": "TreeObject",
     "name": "LeafTree_TreeObject",
-    "mass": "1500",
-    "volume": "8000"
+    "mass": 1500,
+    "volume": 8000
   },
   "PineTree_TreeObject": {
     "subtype": "PineTree",
     "type": "TreeObject",
     "name": "PineTree_TreeObject",
-    "mass": "1500",
-    "volume": "8000"
+    "mass": 1500,
+    "volume": 8000
   },
   "PineTreeSnow_TreeObject": {
     "subtype": "PineTreeSnow",
     "type": "TreeObject",
     "name": "PineTreeSnow_TreeObject",
-    "mass": "1500",
-    "volume": "8000"
+    "mass": 1500,
+    "volume": 8000
   },
   "LeafTreeMedium_TreeObject": {
     "subtype": "LeafTreeMedium",
     "type": "TreeObject",
     "name": "LeafTreeMedium_TreeObject",
-    "mass": "1300",
-    "volume": "8000"
+    "mass": 1300,
+    "volume": 8000
   },
   "DesertTreeMedium_TreeObject": {
     "subtype": "DesertTreeMedium",
     "type": "TreeObject",
     "name": "DesertTreeMedium_TreeObject",
-    "mass": "1300",
-    "volume": "8000"
+    "mass": 1300,
+    "volume": 8000
   },
   "DesertTreeDeadMedium_TreeObject": {
     "subtype": "DesertTreeDeadMedium",
     "type": "TreeObject",
     "name": "DesertTreeDeadMedium_TreeObject",
-    "mass": "1300",
-    "volume": "8000"
+    "mass": 1300,
+    "volume": 8000
   },
   "PineTreeMedium_TreeObject": {
     "subtype": "PineTreeMedium",
     "type": "TreeObject",
     "name": "PineTreeMedium_TreeObject",
-    "mass": "1300",
-    "volume": "8000"
+    "mass": 1300,
+    "volume": 8000
   },
   "PineTreeSnowMedium_TreeObject": {
     "subtype": "PineTreeSnowMedium",
     "type": "TreeObject",
     "name": "PineTreeSnowMedium_TreeObject",
-    "mass": "1300",
-    "volume": "8000"
+    "mass": 1300,
+    "volume": 8000
   },
   "DeadBushMedium_TreeObject": {
     "subtype": "DeadBushMedium",
     "type": "TreeObject",
     "name": "DeadBushMedium_TreeObject",
-    "mass": "1300",
-    "volume": "8000"
+    "mass": 1300,
+    "volume": 8000
   },
   "DesertBushMedium_TreeObject": {
     "subtype": "DesertBushMedium",
     "type": "TreeObject",
     "name": "DesertBushMedium_TreeObject",
-    "mass": "1300",
-    "volume": "8000"
+    "mass": 1300,
+    "volume": 8000
   },
   "LeafBushMedium_var1_TreeObject": {
     "subtype": "LeafBushMedium_var1",
     "type": "TreeObject",
     "name": "LeafBushMedium_var1_TreeObject",
-    "mass": "1300",
-    "volume": "8000"
+    "mass": 1300,
+    "volume": 8000
   },
   "LeafBushMedium_var2_TreeObject": {
     "subtype": "LeafBushMedium_var2",
     "type": "TreeObject",
     "name": "LeafBushMedium_var2_TreeObject",
-    "mass": "1300",
-    "volume": "8000"
+    "mass": 1300,
+    "volume": 8000
   },
   "PineBushMedium_TreeObject": {
     "subtype": "PineBushMedium",
     "type": "TreeObject",
     "name": "PineBushMedium_TreeObject",
-    "mass": "1300",
-    "volume": "8000"
+    "mass": 1300,
+    "volume": 8000
   },
   "SnowPineBushMedium_TreeObject": {
     "subtype": "SnowPineBushMedium",
     "type": "TreeObject",
     "name": "SnowPineBushMedium_TreeObject",
-    "mass": "1300",
-    "volume": "8000"
+    "mass": 1300,
+    "volume": 8000
   },
   "Construction_Component": {
     "subtype": "Construction",
     "type": "Component",
     "name": "Construction_Component",
-    "mass": "8",
-    "volume": "2",
-    "time": "1.5",
+    "mass": 8,
+    "volume": 2,
+    "time": 1.5,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "10",
+        "amount": 10,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
@@ -1062,24 +1094,25 @@
     "subtype": "MetalGrid",
     "type": "Component",
     "name": "MetalGrid_Component",
-    "mass": "6",
-    "volume": "15",
-    "time": "2",
+    "mass": 6,
+    "volume": 15,
+    "time": 2,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "12",
+        "amount": 12,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "3",
+        "amount": 3,
         "subtype": "Cobalt",
         "type": "Ingot",
         "name": "Cobalt_Ingot"
@@ -1090,12 +1123,13 @@
     "subtype": "InteriorPlate",
     "type": "Component",
     "name": "InteriorPlate_Component",
-    "mass": "3",
-    "volume": "5",
-    "time": "1",
+    "mass": 3,
+    "volume": 5,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "3.5",
+        "amount": 3.5,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
@@ -1106,12 +1140,13 @@
     "subtype": "SteelPlate",
     "type": "Component",
     "name": "SteelPlate_Component",
-    "mass": "20",
-    "volume": "3",
-    "time": "1",
+    "mass": 20,
+    "volume": 3,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "21",
+        "amount": 21,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
@@ -1122,12 +1157,13 @@
     "subtype": "Girder",
     "type": "Component",
     "name": "Girder_Component",
-    "mass": "6",
-    "volume": "2",
-    "time": "1",
+    "mass": 6,
+    "volume": 2,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "7",
+        "amount": 7,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
@@ -1138,12 +1174,13 @@
     "subtype": "SmallTube",
     "type": "Component",
     "name": "SmallTube_Component",
-    "mass": "4",
-    "volume": "2",
-    "time": "1",
+    "mass": 4,
+    "volume": 2,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
@@ -1154,12 +1191,13 @@
     "subtype": "LargeTube",
     "type": "Component",
     "name": "LargeTube_Component",
-    "mass": "25",
-    "volume": "38",
-    "time": "1",
+    "mass": 25,
+    "volume": 38,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "30",
+        "amount": 30,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
@@ -1170,18 +1208,19 @@
     "subtype": "Motor",
     "type": "Component",
     "name": "Motor_Component",
-    "mass": "24",
-    "volume": "8",
-    "time": "1",
+    "mass": 24,
+    "volume": 8,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "20",
+        "amount": 20,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
@@ -1192,18 +1231,19 @@
     "subtype": "Display",
     "type": "Component",
     "name": "Display_Component",
-    "mass": "8",
-    "volume": "6",
-    "time": "1",
+    "mass": 8,
+    "volume": 6,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
@@ -1214,12 +1254,13 @@
     "subtype": "BulletproofGlass",
     "type": "Component",
     "name": "BulletproofGlass_Component",
-    "mass": "15",
-    "volume": "8",
-    "time": "1",
+    "mass": 15,
+    "volume": 8,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "15",
+        "amount": 15,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
@@ -1230,18 +1271,19 @@
     "subtype": "Superconductor",
     "type": "Component",
     "name": "Superconductor_Component",
-    "mass": "15",
-    "volume": "8",
-    "time": "8",
+    "mass": 15,
+    "volume": 8,
+    "time": 8,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "10",
+        "amount": 10,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Gold",
         "type": "Ingot",
         "name": "Gold_Ingot"
@@ -1252,18 +1294,19 @@
     "subtype": "Computer",
     "type": "Component",
     "name": "Computer_Component",
-    "mass": "0.2",
-    "volume": "1",
-    "time": "1",
+    "mass": 0.2,
+    "volume": 1,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "0.5",
+        "amount": 0.5,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "0.2",
+        "amount": 0.2,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
@@ -1274,24 +1317,25 @@
     "subtype": "Reactor",
     "type": "Component",
     "name": "Reactor_Component",
-    "mass": "25",
-    "volume": "8",
-    "time": "1",
+    "mass": 25,
+    "volume": 8,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "15",
+        "amount": 15,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "20",
+        "amount": 20,
         "subtype": "Stone",
         "type": "Ingot",
         "name": "Stone_Ingot"
       },
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Silver",
         "type": "Ingot",
         "name": "Silver_Ingot"
@@ -1302,30 +1346,31 @@
     "subtype": "Thrust",
     "type": "Component",
     "name": "Thrust_Component",
-    "mass": "40",
-    "volume": "10",
-    "time": "1",
+    "mass": 40,
+    "volume": 10,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "30",
+        "amount": 30,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "10",
+        "amount": 10,
         "subtype": "Cobalt",
         "type": "Ingot",
         "name": "Cobalt_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Gold",
         "type": "Ingot",
         "name": "Gold_Ingot"
       },
       {
-        "amount": "0.4",
+        "amount": 0.4,
         "subtype": "Platinum",
         "type": "Ingot",
         "name": "Platinum_Ingot"
@@ -1336,30 +1381,31 @@
     "subtype": "GravityGenerator",
     "type": "Component",
     "name": "GravityGenerator_Component",
-    "mass": "800",
-    "volume": "200",
-    "time": "1",
+    "mass": 800,
+    "volume": 200,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Silver",
         "type": "Ingot",
         "name": "Silver_Ingot"
       },
       {
-        "amount": "10",
+        "amount": 10,
         "subtype": "Gold",
         "type": "Ingot",
         "name": "Gold_Ingot"
       },
       {
-        "amount": "220",
+        "amount": 220,
         "subtype": "Cobalt",
         "type": "Ingot",
         "name": "Cobalt_Ingot"
       },
       {
-        "amount": "600",
+        "amount": 600,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
@@ -1370,24 +1416,25 @@
     "subtype": "Medical",
     "type": "Component",
     "name": "Medical_Component",
-    "mass": "150",
-    "volume": "160",
-    "time": "1",
+    "mass": 150,
+    "volume": 160,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "60",
+        "amount": 60,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "70",
+        "amount": 70,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "20",
+        "amount": 20,
         "subtype": "Silver",
         "type": "Ingot",
         "name": "Silver_Ingot"
@@ -1398,18 +1445,19 @@
     "subtype": "RadioCommunication",
     "type": "Component",
     "name": "RadioCommunication_Component",
-    "mass": "8",
-    "volume": "70",
-    "time": "1",
+    "mass": 8,
+    "volume": 70,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "8",
+        "amount": 8,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
@@ -1420,18 +1468,19 @@
     "subtype": "Detector",
     "type": "Component",
     "name": "Detector_Component",
-    "mass": "5",
-    "volume": "6",
-    "time": "1",
+    "mass": 5,
+    "volume": 6,
+    "time": 1,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "5",
+        "amount": 5,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "15",
+        "amount": 15,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
@@ -1442,18 +1491,19 @@
     "subtype": "Explosives",
     "type": "Component",
     "name": "Explosives_Component",
-    "mass": "2",
-    "volume": "2",
-    "time": "10",
+    "mass": 2,
+    "volume": 2,
+    "time": 10,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "0.5",
+        "amount": 0.5,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
       },
       {
-        "amount": "2.0",
+        "amount": 2,
         "subtype": "Magnesium",
         "type": "Ingot",
         "name": "Magnesium_Ingot"
@@ -1464,18 +1514,19 @@
     "subtype": "SolarCell",
     "type": "Component",
     "name": "SolarCell_Component",
-    "mass": "8",
-    "volume": "20",
-    "time": "10",
+    "mass": 8,
+    "volume": 20,
+    "time": 10,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "10",
+        "amount": 10,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
       },
       {
-        "amount": "8",
+        "amount": 8,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
@@ -1486,24 +1537,25 @@
     "subtype": "PowerCell",
     "type": "Component",
     "name": "PowerCell_Component",
-    "mass": "25",
-    "volume": "45",
-    "time": "4",
+    "mass": 25,
+    "volume": 45,
+    "time": 4,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "10",
+        "amount": 10,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
       },
       {
-        "amount": "1",
+        "amount": 1,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Nickel",
         "type": "Ingot",
         "name": "Nickel_Ingot"
@@ -1514,18 +1566,19 @@
     "subtype": "Canvas",
     "type": "Component",
     "name": "Canvas_Component",
-    "mass": "15",
-    "volume": "8",
-    "time": "4",
+    "mass": 15,
+    "volume": 8,
+    "time": 4,
+    "amount": 1,
     "ingredients": [
       {
-        "amount": "35",
+        "amount": 35,
         "subtype": "Silicon",
         "type": "Ingot",
         "name": "Silicon_Ingot"
       },
       {
-        "amount": "2",
+        "amount": 2,
         "subtype": "Iron",
         "type": "Ingot",
         "name": "Iron_Ingot"
