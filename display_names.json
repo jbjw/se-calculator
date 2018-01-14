@@ -1,0 +1,266 @@
+[
+	{
+		"id": "Missile200mm_AmmoMagazine",
+		"displayName": "200mm missile container"
+	},
+	{
+		"id": "NATO_25x184mm_AmmoMagazine",
+		"displayName": "25x184mm NATO ammo container"
+	},
+	{
+		"id": "NATO_5p56x45mm_AmmoMagazine",
+		"displayName": "5.56x45mm NATO magazine"
+	},
+	{
+		"id": "HydrogenBottle_GasContainerObject",
+		"displayName": "Hydrogen Bottle"
+	},
+	{
+		"id": "OxygenBottle_GasContainerObject",
+		"displayName": "Oxygen Bottle"
+	},
+	{
+		"id": "AutomaticRifleItem_PhysicalGunObject",
+		"displayName": "Automatic Rifle"
+	},
+	{
+		"id": "UltimateAutomaticRifleItem_PhysicalGunObject",
+		"displayName": "Elite Automatic Rifle"
+	},
+	{
+		"id": "AngleGrinder4Item_PhysicalGunObject",
+		"displayName": "Elite Grinder"
+	},
+	{
+		"id": "HandDrill4Item_PhysicalGunObject",
+		"displayName": "Elite Hand Drill"
+	},
+	{
+		"id": "Welder4Item_PhysicalGunObject",
+		"displayName": "Elite Welder"
+	},
+	{
+		"id": "AngleGrinder2Item_PhysicalGunObject",
+		"displayName": "Enhanced Grinder"
+	},
+	{
+		"id": "HandDrill2Item_PhysicalGunObject",
+		"displayName": "Enhanced Hand Drill"
+	},
+	{
+		"id": "Welder2Item_PhysicalGunObject",
+		"displayName": "Enhanced Welder"
+	},
+	{
+		"id": "AngleGrinderItem_PhysicalGunObject",
+		"displayName": "Grinder"
+	},
+	{
+		"id": "HandDrillItem_PhysicalGunObject",
+		"displayName": "Hand Drill"
+	},
+	{
+		"id": "PreciseAutomaticRifleItem_PhysicalGunObject",
+		"displayName": "Precise Automatic Rifle"
+	},
+	{
+		"id": "AngleGrinder3Item_PhysicalGunObject",
+		"displayName": "Proficient Grinder"
+	},
+	{
+		"id": "HandDrill3Item_PhysicalGunObject",
+		"displayName": "Proficient Hand Drill"
+	},
+	{
+		"id": "Welder3Item_PhysicalGunObject",
+		"displayName": "Proficient Welder"
+	},
+	{
+		"id": "RapidFireAutomaticRifleItem_PhysicalGunObject",
+		"displayName": "Rapid-Fire Automatic Rifle"
+	},
+	{
+		"id": "WelderItem_PhysicalGunObject",
+		"displayName": "Welder"
+	},
+	{
+		"id": "Cobalt_Ore",
+		"displayName": "Cobalt Ore"
+	},
+	{
+		"id": "Gold_Ore",
+		"displayName": "Gold Ore"
+	},
+	{
+		"id": "Ice_Ore",
+		"displayName": "Ice"
+	},
+	{
+		"id": "Iron_Ore",
+		"displayName": "Iron Ore"
+	},
+	{
+		"id": "Magnesium_Ore",
+		"displayName": "Magnesium Ore"
+	},
+	{
+		"id": "Nickel_Ore",
+		"displayName": "Nickel Ore"
+	},
+	{
+		"id": "Platinum_Ore",
+		"displayName": "Platinum Ore"
+	},
+	{
+		"id": "Scrap_Ore",
+		"displayName": "Scrap metal"
+	},
+	{
+		"id": "Silicon_Ore",
+		"displayName": "Silicon Ore"
+	},
+	{
+		"id": "Silver_Ore",
+		"displayName": "Silver Ore"
+	},
+	{
+		"id": "Stone_Ore",
+		"displayName": "Stone"
+	},
+	{
+		"id": "Uranium_Ore",
+		"displayName": "Uranium Ore"
+	},
+	{
+		"id": "Cobalt_Ingot",
+		"displayName": "Cobalt Ingot"
+	},
+	{
+		"id": "Gold_Ingot",
+		"displayName": "Gold Ingot"
+	},
+	{
+		"id": "Gravel_Ingot",
+		"displayName": "Gravel"
+	},
+	{
+		"id": "Iron_Ingot",
+		"displayName": "Iron Ingot"
+	},
+	{
+		"id": "Magnesium_Ingot",
+		"displayName": "Magnesium Powder"
+	},
+	{
+		"id": "Nickel_Ingot",
+		"displayName": "Nickel Ingot"
+	},
+	{
+		"id": "Scrap_Ingot",
+		"displayName": "Old Scrap metal"
+	},
+	{
+		"id": "Platinum_Ingot",
+		"displayName": "Platinum Ingot"
+	},
+	{
+		"id": "Silicon_Ingot",
+		"displayName": "Silicon Wafer"
+	},
+	{
+		"id": "Silver_Ingot",
+		"displayName": "Silver Ingot"
+	},
+	{
+		"id": "Uranium_Ingot",
+		"displayName": "Uranium Ingot"
+	},
+	{
+		"id": "BulletproofGlass_Component",
+		"displayName": "Bulletproof Glass"
+	},
+	{
+		"id": "Canvas_Component",
+		"displayName": "Canvas"
+	},
+	{
+		"id": "Computer_Component",
+		"displayName": "Computer"
+	},
+	{
+		"id": "Construction_Component",
+		"displayName": "Construction Component"
+	},
+	{
+		"id": "Detector_Component",
+		"displayName": "Detector Components"
+	},
+	{
+		"id": "Display_Component",
+		"displayName": "Display"
+	},
+	{
+		"id": "Explosives_Component",
+		"displayName": "Explosives"
+	},
+	{
+		"id": "Girder_Component",
+		"displayName": "Girder"
+	},
+	{
+		"id": "GravityGenerator_Component",
+		"displayName": "Gravity Generator Components"
+	},
+	{
+		"id": "InteriorPlate_Component",
+		"displayName": "Interior Plate"
+	},
+	{
+		"id": "LargeTube_Component",
+		"displayName": "Large Steel Tube"
+	},
+	{
+		"id": "Medical_Component",
+		"displayName": "Medical Components"
+	},
+	{
+		"id": "MetalGrid_Component",
+		"displayName": "Metal Grid"
+	},
+	{
+		"id": "Motor_Component",
+		"displayName": "Motor"
+	},
+	{
+		"id": "PowerCell_Component",
+		"displayName": "Power Cell"
+	},
+	{
+		"id": "RadioCommunication_Component",
+		"displayName": "Radio-communication Components"
+	},
+	{
+		"id": "Reactor_Component",
+		"displayName": "Reactor Components"
+	},
+	{
+		"id": "SmallTube_Component",
+		"displayName": "Small Steel Tube"
+	},
+	{
+		"id": "SolarCell_Component",
+		"displayName": "Solar Cell"
+	},
+	{
+		"id": "SteelPlate_Component",
+		"displayName": "Steel Plate"
+	},
+	{
+		"id": "Superconductor_Component",
+		"displayName": "Superconductor Conduits"
+	},
+	{
+		"id": "Thrust_Component",
+		"displayName": "Thruster Components"
+	}
+]

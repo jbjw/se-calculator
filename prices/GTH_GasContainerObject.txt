@@ -1,0 +1,7 @@
+Galactic Trade Hub
+
+« Market List                                                       Buy                Sell                            Stock »
+
+Hydrogen Bottle                                          232.880         261.990                        652.0000
+
+Oxygen Bottle                                              232.880         261.990                       334.0000

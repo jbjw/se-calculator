@@ -1,0 +1,57 @@
+Galactic Trade Hub
+
+« Market List                                                       Buy                Sell                            Stock »
+
+Bulletproof Glass                                             9.295          60.000                    116610.0000
+
+Canvas                                                           23.000           37.300                       1198.0000
+
+Computer                                                         0.860              1.227                          30.0000
+
+Construction Component                                  1.442            2.000                      11510.0000
+
+Detector Components                                      3.098          90.000                   125717.0000
+
+Display                                                           19.540           21.990                        1721.0000
+
+Explosives                                                      33.396          46.380                    10499.0000
+
+GalaxyNewsTVPlate                                   7781.000       9737.189                          95.0000
+
+Girder                                                                1.004              1.400                      14119.0000
+
+Gravity Generator Components                   1382.516        1920.160                    15093.0000
+
+Interior Plate                                                    0.630             0.700                     3974.0000
+
+Large Steel Tube                                              4.325            6.000                    14474.0000
+
+Medical Components                                  388.602        666.320                    25479.0000
+
+Metal Grid                                                       27.736          58.720                    24219.0000
+
+Motor                                                               30.186           37.740                     6908.0000
+
+Naquadah Component                                      1.000           57.937                          50.0000
+
+Neutronium Crate                                              1.000          73.750                           19.0000
+
+Power Cell                                                        11.581           19.850                     17663.0000
+
+Radio-communication Compone…                 5.300             5.960                      4441.0000
+
+Reactor Components                                      41.778           52.230                     6979.0000
+
+Small Steel Tube                                              0.721              1.000                    29051.0000
+
+Solar Cell                                                       59.679         102.330                    20439.0000
+
+Steel Plate                                                       3.257             5.200                     81681.0000
+
+Superconductor Conduits                               12.267         180.840                   57788.0000
+
+Thruster Components                                   145.800        190.000                     19493.0000
+
+Trinium Plate                                                    1.000           41.800                         125.0000
+
+Zero Point Module                                  20000.000    43642.500                             1.0000

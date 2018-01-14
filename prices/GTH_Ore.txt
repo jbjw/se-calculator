@@ -1,0 +1,33 @@
+Galactic Trade Hub
+
+« Market List                                                                 Buy                  Sell                                Stock »
+
+Cobalt Ore                                                                 0.025                 1.810                      21711751.3260
+
+Gold Ore                                                                     0.012                0.491                      1193027.8694
+
+Ice                                                                               0.012               0.227                   2658390.4387
+
+Iron Ore                                                                       0.001                0.110                     2099584.5618
+
+Magnesium Ore                                                          0.081              0.280                          11000.0000
+
+Naquadah Ore                                                            0.012               2.800                      1039748.1739
+
+Neutronium Ore                                                          0.001               3.637                                 0.0000
+
+Nickel Ore                                                                  0.019                1.450                    19630991.3946
+
+Platinum Ore                                                             0.045               2.432                     7871749.4680
+
+Scrap Metal                                                                 0.110                0.130                             693.9810
+
+Silicon Ore                                                                 0.019                1.980                      3513441.4099
+
+Silver Ore                                                                  0.025               0.730                    6629473.2354
+
+Stone                                                                         0.000              0.005                 23462995.4202
+
+Trinium Ore                                                                0.043               2.100                       337336.8093
+
+Uranium Ore                                                                0.011                 1.481                      589880.5737

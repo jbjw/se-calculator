@@ -1,0 +1,41 @@
+Galactic Trade Hub
+
+« Market List                                                                                     Buy                       Sell                                          Stock »
+
+Automatic Rifle                                                                           20.000                126.500                                        30.0000
+
+Elite Automatic Rifle                                                                 120.000                253.000                                         31.0000
+
+Elite Grinder                                                                                60.000                   91.080                                        44.0000
+
+Elite Hand Drill                                                                            67.000                   93.610                                        47.0000
+
+Elite Welder                                                                                60.000                 104.742                                         10.0000
+
+Enhanced Grinder                                                                       52.000                  62.700                                        85.0000
+
+Enhanced Hand Drill                                                                   49.000                  59.400                                        57.0000
+
+Enhanced Welder                                                                        19.000                   23.573                                        76.0000
+
+Grinder                                                                                          19.780                  29.120                                        49.0000
+
+Hand Drill                                                                                    40.000                  44.000                                      148.0000
+
+Jaffa Staff Weapon                                                                  350.000                 567.353                                           1.0000
+
+Precise Automatic Rifle                                                             48.000                 132.000                                        84.0000
+
+Proficient Grinder                                                                       44.000                  49.000                                       160.0000
+
+Proficient Hand Drill                                                                   60.000                  66.000                                       261.0000
+
+Proficient Welder                                                                        28.570                  32.900                                      152.0000
+
+Rapid-Fire Automatic Rifle                                                         60.000                 176.000                                        99.0000
+
+Stargate P90                                                                             210.000                363.688                                           1.0000
+
+Welder                                                                                           3.220                    24.110                                    1036.0000
+
+Zat'nik'tel                                                                                  280.000               480.068                                           1.0000

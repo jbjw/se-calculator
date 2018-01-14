@@ -1,0 +1,532 @@
+[
+    {
+        "displayname": "200mm missile container",
+        "id": "Missile200mm_AmmoMagazine",
+        "type": "Missile200mm",
+        "subtype": "AmmoMagazine",
+        "sortcategory": "1 ammo"
+    },
+    {
+        "displayname": "25x184mm NATO ammo container",
+        "id": "NATO_25x184mm_AmmoMagazine",
+        "type": "NATO_25x184mm",
+        "subtype": "AmmoMagazine",
+        "sortcategory": "1 ammo"
+    },
+    {
+        "displayname": "5.56x45mm NATO magazine",
+        "id": "NATO_5p56x45mm_AmmoMagazine",
+        "type": "NATO_5p56x45mm",
+        "subtype": "AmmoMagazine",
+        "sortcategory": "1 ammo"
+    },
+    {
+        "displayname": "Hydrogen Bottle",
+        "id": "HydrogenBottle_GasContainerObject",
+        "type": "HydrogenBottle",
+        "subtype": "GasContainerObject",
+        "sortcategory": "2 GasContainerObject",
+        "gthbuy": 232.88,
+        "gthsell": 261.99,
+        "gthstock": 660,
+        "undefined": 20
+    },
+    {
+        "displayname": "Oxygen Bottle",
+        "id": "OxygenBottle_GasContainerObject",
+        "type": "OxygenBottle",
+        "subtype": "GasContainerObject",
+        "sortcategory": "2 GasContainerObject",
+        "gthbuy": 232.88,
+        "gthsell": 261.99,
+        "gthstock": 353,
+        "undefined": 71
+    },
+    {
+        "displayname": "Automatic Rifle",
+        "id": "AutomaticRifleItem_PhysicalGunObject",
+        "type": "AutomaticRifleItem",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 20,
+        "gthsell": 126.5,
+        "gthstock": 31
+    },
+    {
+        "displayname": "Elite Automatic Rifle",
+        "id": "UltimateAutomaticRifleItem_PhysicalGunObject",
+        "type": "UltimateAutomaticRifleItem",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 120,
+        "gthsell": 253,
+        "gthstock": 34
+    },
+    {
+        "displayname": "Elite Grinder",
+        "id": "AngleGrinder4Item_PhysicalGunObject",
+        "type": "AngleGrinder4Item",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 60,
+        "gthsell": 91.08,
+        "gthstock": 38,
+        "undefined": 72
+    },
+    {
+        "displayname": "Elite Hand Drill",
+        "id": "HandDrill4Item_PhysicalGunObject",
+        "type": "HandDrill4Item",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 67,
+        "gthsell": 81.4,
+        "gthstock": 52,
+        "undefined": 96
+    },
+    {
+        "displayname": "Elite Welder",
+        "id": "Welder4Item_PhysicalGunObject",
+        "type": "Welder4Item",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 60,
+        "gthsell": 91.08,
+        "gthstock": 27,
+        "undefined": 59
+    },
+    {
+        "displayname": "Enhanced Grinder",
+        "id": "AngleGrinder2Item_PhysicalGunObject",
+        "type": "AngleGrinder2Item",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 52,
+        "gthsell": 62.7,
+        "gthstock": 85,
+        "undefined": 100
+    },
+    {
+        "displayname": "Enhanced Hand Drill",
+        "id": "HandDrill2Item_PhysicalGunObject",
+        "type": "HandDrill2Item",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 49,
+        "gthsell": 59.4,
+        "gthstock": 57,
+        "undefined": 100
+    },
+    {
+        "displayname": "Enhanced Welder",
+        "id": "Welder2Item_PhysicalGunObject",
+        "type": "Welder2Item",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 19,
+        "gthsell": 23.573,
+        "gthstock": 76,
+        "undefined": 100
+    },
+    {
+        "displayname": "Grinder",
+        "id": "AngleGrinderItem_PhysicalGunObject",
+        "type": "AngleGrinderItem",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 19.78,
+        "gthsell": 33.488,
+        "gthstock": 7,
+        "undefined": 100
+    },
+    {
+        "displayname": "Hand Drill",
+        "id": "HandDrillItem_PhysicalGunObject",
+        "type": "HandDrillItem",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 40,
+        "gthsell": 44,
+        "gthstock": 163,
+        "undefined": 100
+    },
+    {
+        "displayname": "Precise Automatic Rifle",
+        "id": "PreciseAutomaticRifleItem_PhysicalGunObject",
+        "type": "PreciseAutomaticRifleItem",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 48,
+        "gthsell": 132,
+        "gthstock": 84
+    },
+    {
+        "displayname": "Proficient Grinder",
+        "id": "AngleGrinder3Item_PhysicalGunObject",
+        "type": "AngleGrinder3Item",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 44,
+        "gthsell": 49,
+        "gthstock": 160,
+        "undefined": 100
+    },
+    {
+        "displayname": "Proficient Hand Drill",
+        "id": "HandDrill3Item_PhysicalGunObject",
+        "type": "HandDrill3Item",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 60,
+        "gthsell": 66,
+        "gthstock": 261,
+        "undefined": 100
+    },
+    {
+        "displayname": "Proficient Welder",
+        "id": "Welder3Item_PhysicalGunObject",
+        "type": "Welder3Item",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 28.57,
+        "gthsell": 32.9,
+        "gthstock": 152,
+        "undefined": 100
+    },
+    {
+        "displayname": "Rapid-Fire Automatic Rifle",
+        "id": "RapidFireAutomaticRifleItem_PhysicalGunObject",
+        "type": "RapidFireAutomaticRifleItem",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 60,
+        "gthsell": 176,
+        "gthstock": 99
+    },
+    {
+        "displayname": "Welder",
+        "id": "WelderItem_PhysicalGunObject",
+        "type": "WelderItem",
+        "subtype": "PhysicalGunObject",
+        "sortcategory": "3 tool",
+        "gthbuy": 3.22,
+        "gthsell": 24.11,
+        "gthstock": 1045,
+        "undefined": 100
+    },
+    {
+        "displayname": "Cobalt Ore",
+        "id": "Cobalt_Ore",
+        "type": "Cobalt",
+        "subtype": "Ore",
+        "sortcategory": "4 ore"
+    },
+    {
+        "displayname": "Gold Ore",
+        "id": "Gold_Ore",
+        "type": "Gold",
+        "subtype": "Ore",
+        "sortcategory": "4 ore"
+    },
+    {
+        "displayname": "Ice",
+        "id": "Ice_Ore",
+        "type": "Ice",
+        "subtype": "Ore",
+        "sortcategory": "4 ore"
+    },
+    {
+        "displayname": "Iron Ore",
+        "id": "Iron_Ore",
+        "type": "Iron",
+        "subtype": "Ore",
+        "sortcategory": "4 ore"
+    },
+    {
+        "displayname": "Magnesium Ore",
+        "id": "Magnesium_Ore",
+        "type": "Magnesium",
+        "subtype": "Ore",
+        "sortcategory": "4 ore"
+    },
+    {
+        "displayname": "Nickel Ore",
+        "id": "Nickel_Ore",
+        "type": "Nickel",
+        "subtype": "Ore",
+        "sortcategory": "4 ore"
+    },
+    {
+        "displayname": "Platinum Ore",
+        "id": "Platinum_Ore",
+        "type": "Platinum",
+        "subtype": "Ore",
+        "sortcategory": "4 ore"
+    },
+    {
+        "displayname": "Scrap metal",
+        "id": "Scrap_Ore",
+        "type": "Scrap",
+        "subtype": "Ore",
+        "sortcategory": "4 ore"
+    },
+    {
+        "displayname": "Silicon Ore",
+        "id": "Silicon_Ore",
+        "type": "Silicon",
+        "subtype": "Ore",
+        "sortcategory": "4 ore"
+    },
+    {
+        "displayname": "Silver Ore",
+        "id": "Silver_Ore",
+        "type": "Silver",
+        "subtype": "Ore",
+        "sortcategory": "4 ore"
+    },
+    {
+        "displayname": "Stone",
+        "id": "Stone_Ore",
+        "type": "Stone",
+        "subtype": "Ore",
+        "sortcategory": "4 ore"
+    },
+    {
+        "displayname": "Uranium Ore",
+        "id": "Uranium_Ore",
+        "type": "Uranium",
+        "subtype": "Ore",
+        "sortcategory": "4 ore"
+    },
+    {
+        "displayname": "Cobalt Ingot",
+        "id": "Cobalt_Ingot",
+        "type": "Cobalt",
+        "subtype": "Ingot",
+        "sortcategory": "5 ingot"
+    },
+    {
+        "displayname": "Gold Ingot",
+        "id": "Gold_Ingot",
+        "type": "Gold",
+        "subtype": "Ingot",
+        "sortcategory": "5 ingot"
+    },
+    {
+        "displayname": "Gravel",
+        "id": "Gravel_Ingot",
+        "type": "Gravel",
+        "subtype": "Ingot",
+        "sortcategory": "5 ingot"
+    },
+    {
+        "displayname": "Iron Ingot",
+        "id": "Iron_Ingot",
+        "type": "Iron",
+        "subtype": "Ingot",
+        "sortcategory": "5 ingot"
+    },
+    {
+        "displayname": "Magnesium Powder",
+        "id": "Magnesium_Ingot",
+        "type": "Magnesium",
+        "subtype": "Ingot",
+        "sortcategory": "5 ingot"
+    },
+    {
+        "displayname": "Nickel Ingot",
+        "id": "Nickel_Ingot",
+        "type": "Nickel",
+        "subtype": "Ingot",
+        "sortcategory": "5 ingot"
+    },
+    {
+        "displayname": "Old Scrap metal",
+        "id": "Scrap_Ingot",
+        "type": "Scrap",
+        "subtype": "Ingot",
+        "sortcategory": "5 ingot"
+    },
+    {
+        "displayname": "Platinum Ingot",
+        "id": "Platinum_Ingot",
+        "type": "Platinum",
+        "subtype": "Ingot",
+        "sortcategory": "5 ingot"
+    },
+    {
+        "displayname": "Silicon Wafer",
+        "id": "Silicon_Ingot",
+        "type": "Silicon",
+        "subtype": "Ingot",
+        "sortcategory": "5 ingot"
+    },
+    {
+        "displayname": "Silver Ingot",
+        "id": "Silver_Ingot",
+        "type": "Silver",
+        "subtype": "Ingot",
+        "sortcategory": "5 ingot"
+    },
+    {
+        "displayname": "Uranium Ingot",
+        "id": "Uranium_Ingot",
+        "type": "Uranium",
+        "subtype": "Ingot",
+        "sortcategory": "5 ingot"
+    },
+    {
+        "displayname": "Bulletproof Glass",
+        "id": "BulletproofGlass_Component",
+        "type": "BulletproofGlass",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Canvas",
+        "id": "Canvas_Component",
+        "type": "Canvas",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Computer",
+        "id": "Computer_Component",
+        "type": "Computer",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Construction Component",
+        "id": "Construction_Component",
+        "type": "Construction",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Detector Components",
+        "id": "Detector_Component",
+        "type": "Detector",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Display",
+        "id": "Display_Component",
+        "type": "Display",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Explosives",
+        "id": "Explosives_Component",
+        "type": "Explosives",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Girder",
+        "id": "Girder_Component",
+        "type": "Girder",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Gravity Generator Components",
+        "id": "GravityGenerator_Component",
+        "type": "GravityGenerator",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Interior Plate",
+        "id": "InteriorPlate_Component",
+        "type": "InteriorPlate",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Large Steel Tube",
+        "id": "LargeTube_Component",
+        "type": "LargeTube",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Medical Components",
+        "id": "Medical_Component",
+        "type": "Medical",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Metal Grid",
+        "id": "MetalGrid_Component",
+        "type": "MetalGrid",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Motor",
+        "id": "Motor_Component",
+        "type": "Motor",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Power Cell",
+        "id": "PowerCell_Component",
+        "type": "PowerCell",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Radio-communication Components",
+        "id": "RadioCommunication_Component",
+        "type": "RadioCommunication",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Reactor Components",
+        "id": "Reactor_Component",
+        "type": "Reactor",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Small Steel Tube",
+        "id": "SmallTube_Component",
+        "type": "SmallTube",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Solar Cell",
+        "id": "SolarCell_Component",
+        "type": "SolarCell",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Steel Plate",
+        "id": "SteelPlate_Component",
+        "type": "SteelPlate",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Superconductor Conduits",
+        "id": "Superconductor_Component",
+        "type": "Superconductor",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    },
+    {
+        "displayname": "Thruster Components",
+        "id": "Thrust_Component",
+        "type": "Thrust",
+        "subtype": "Component",
+        "sortcategory": "6 component"
+    }
+]

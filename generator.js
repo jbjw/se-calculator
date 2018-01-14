@@ -1,6 +1,6 @@
-'use strict'
-
 //
+
+'use strict'
 
 var xml2js = require('xml2js')
 var fs = require('fs')
@@ -20,6 +20,10 @@ function dump(path, json) {
 		console.log('file got done wrote')
 	})
 }
+
+
+var itemPrices = fs.readFileSync( "item_prices.json" )
+
 
 // AmmoMagazines.sbc is just for mass and volume of magazine items
 var ammoMagazinesJSON = load("dataSBC/AmmoMagazines.sbc").Definitions.AmmoMagazines[0].AmmoMagazine
@@ -41,8 +45,8 @@ dump("dataJSON/Blueprints.json", blueprintsJSON)
 var cubeBlocksJSON = load("dataSBC/CubeBlocks.sbc").Definitions.CubeBlocks[0].Definition
 dump("dataJSON/CubeBlocks.json", cubeBlocksJSON)
 
-var items = {}
-
+// var items = {}
+var items = []
 
 var categoryBlacklist = [ "TreeObject" ]
 
@@ -55,7 +59,8 @@ for ( let json of ammoMagazinesJSON ) {
 	tmp.volume = Number( json.Volume[0] )
 
 	if (!categoryBlacklist.includes(tmp.category)) {
-		items[tmp.name] = tmp
+		// items[tmp.name] = tmp
+		items.push( tmp )
 	}
 }
 
@@ -68,7 +73,8 @@ for (let json of physicalItemsJSON) {
 	tmp.volume = Number( json.Volume[0] )
 
 	if (!categoryBlacklist.includes(tmp.category)) {
-		items[tmp.name] = tmp
+		// items[tmp.name] = tmp
+		items.push( tmp )
 	}
 }
 
@@ -81,40 +87,41 @@ for (let json of componentsJSON) {
 	tmp.volume = Number( json.Volume[0] )
 
 	if (!categoryBlacklist.includes(tmp.category)) {
-		items[tmp.name] = tmp
+		// items[tmp.name] = tmp
+		items.push( tmp )
 	}
 }
 
-for (let json of blueprintsJSON) {
-	var result = {}
-	result.amount = Number( json.Result[0].$.Amount )
-	result.subtype = json.Result[0].$.SubtypeId
-	result.type = json.Result[0].$.TypeId
-	result.name = `${result.subtype}_${result.type}`
-
-	var item = items[result.name]
-
-	if ( item.ingredients === undefined ) {
-		item.time = Number( json.BaseProductionTimeInSeconds[0] )
-		item.amount = Number( json.Result[0].$.Amount )
-		item.ingredients = []
-
-		for (let ijson of json.Prerequisites[0].Item) {
-			var ingredient = {}
-			ingredient.amount = Number( ijson.$.Amount )
-			ingredient.subtype = ijson.$.SubtypeId
-			ingredient.type = ijson.$.TypeId
-			ingredient.name = `${ingredient.subtype}_${ingredient.type}`
-			item.ingredients.push( ingredient )
-		}
-	} else {
-		// already has ingredients, duplicat eentires like iron from scrap
-	}
-
-
-
-	// recipe name `${json.Id[0].SubtypeId[0]}_${json.Id[0].TypeId[0]}`
-}
+// for (let json of blueprintsJSON) {
+// 	var result = {}
+// 	result.amount = Number( json.Result[0].$.Amount )
+// 	result.subtype = json.Result[0].$.SubtypeId
+// 	result.type = json.Result[0].$.TypeId
+// 	result.name = `${result.subtype}_${result.type}`
+//
+// 	var item = items[result.name]
+//
+// 	if ( item.ingredients === undefined ) {
+// 		item.time = Number( json.BaseProductionTimeInSeconds[0] )
+// 		item.amount = Number( json.Result[0].$.Amount )
+// 		item.ingredients = []
+//
+// 		for (let ijson of json.Prerequisites[0].Item) {
+// 			var ingredient = {}
+// 			ingredient.amount = Number( ijson.$.Amount )
+// 			ingredient.subtype = ijson.$.SubtypeId
+// 			ingredient.type = ijson.$.TypeId
+// 			ingredient.name = `${ingredient.subtype}_${ingredient.type}`
+// 			item.ingredients.push( ingredient )
+// 		}
+// 	} else {
+// 		// already has ingredients, duplicat eentires like iron from scrap
+// 	}
+//
+//
+//
+// 	// recipe name `${json.Id[0].SubtypeId[0]}_${json.Id[0].TypeId[0]}`
+// }
 
 // console.log(Object.values(items).filter(i => i.type == "AmmoMagazine" || i.type == "GasContainerObject" || i.type == "OxygenContainerObject").map(i => i.subtype))
 

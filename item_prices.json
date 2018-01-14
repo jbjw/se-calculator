@@ -1,0 +1,642 @@
+[
+  {
+    "subtype": "200mm missile container",
+    "type": "AmmoMagazine",
+    "marketName": "Galactic Trade Hub",
+    "buy": "52.540",
+    "sell": "59.100",
+    "stock": "2579.0000"
+  },
+  {
+    "subtype": "25x184mm NATO ammo container",
+    "type": "AmmoMagazine",
+    "marketName": "Galactic Trade Hub",
+    "buy": "75.360",
+    "sell": "84.780",
+    "stock": "1357.0000"
+  },
+  {
+    "subtype": "5.56x45mm NATO magazine",
+    "type": "AmmoMagazine",
+    "marketName": "Galactic Trade Hub",
+    "buy": "3.200",
+    "sell": "6.400",
+    "stock": "408.0000"
+  },
+  {
+    "subtype": "Bulletproof Glass",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "9.295",
+    "sell": "60.000",
+    "stock": "116610.0000"
+  },
+  {
+    "subtype": "Canvas",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "23.000",
+    "sell": "37.300",
+    "stock": "1198.0000"
+  },
+  {
+    "subtype": "Computer",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.860",
+    "sell": "1.227",
+    "stock": "30.0000"
+  },
+  {
+    "subtype": "Construction Component",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "1.442",
+    "sell": "2.000",
+    "stock": "11510.0000"
+  },
+  {
+    "subtype": "Detector Components",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "3.098",
+    "sell": "90.000",
+    "stock": "125717.0000"
+  },
+  {
+    "subtype": "Display",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "19.540",
+    "sell": "21.990",
+    "stock": "1721.0000"
+  },
+  {
+    "subtype": "Explosives",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "33.396",
+    "sell": "46.380",
+    "stock": "10499.0000"
+  },
+  {
+    "subtype": "GalaxyNewsTVPlate",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "7781.000",
+    "sell": "9737.189",
+    "stock": "95.0000"
+  },
+  {
+    "subtype": "Girder",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "1.004",
+    "sell": "1.400",
+    "stock": "14119.0000"
+  },
+  {
+    "subtype": "Gravity Generator Components",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "1382.516",
+    "sell": "1920.160",
+    "stock": "15093.0000"
+  },
+  {
+    "subtype": "Interior Plate",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.630",
+    "sell": "0.700",
+    "stock": "3974.0000"
+  },
+  {
+    "subtype": "Large Steel Tube",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "4.325",
+    "sell": "6.000",
+    "stock": "14474.0000"
+  },
+  {
+    "subtype": "Medical Components",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "388.602",
+    "sell": "666.320",
+    "stock": "25479.0000"
+  },
+  {
+    "subtype": "Metal Grid",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "27.736",
+    "sell": "58.720",
+    "stock": "24219.0000"
+  },
+  {
+    "subtype": "Motor",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "30.186",
+    "sell": "37.740",
+    "stock": "6908.0000"
+  },
+  {
+    "subtype": "Naquadah Component",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "1.000",
+    "sell": "57.937",
+    "stock": "50.0000"
+  },
+  {
+    "subtype": "Neutronium Crate",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "1.000",
+    "sell": "73.750",
+    "stock": "19.0000"
+  },
+  {
+    "subtype": "Power Cell",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "11.581",
+    "sell": "19.850",
+    "stock": "17663.0000"
+  },
+  {
+    "subtype": "Radio-communication Compone…",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "5.300",
+    "sell": "5.960",
+    "stock": "4441.0000"
+  },
+  {
+    "subtype": "Reactor Components",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "41.778",
+    "sell": "52.230",
+    "stock": "6979.0000"
+  },
+  {
+    "subtype": "Small Steel Tube",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.721",
+    "sell": "1.000",
+    "stock": "29051.0000"
+  },
+  {
+    "subtype": "Solar Cell",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "59.679",
+    "sell": "102.330",
+    "stock": "20439.0000"
+  },
+  {
+    "subtype": "Steel Plate",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "3.257",
+    "sell": "5.200",
+    "stock": "81681.0000"
+  },
+  {
+    "subtype": "Superconductor Conduits",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "12.267",
+    "sell": "180.840",
+    "stock": "57788.0000"
+  },
+  {
+    "subtype": "Thruster Components",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "145.800",
+    "sell": "190.000",
+    "stock": "19493.0000"
+  },
+  {
+    "subtype": "Trinium Plate",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "1.000",
+    "sell": "41.800",
+    "stock": "125.0000"
+  },
+  {
+    "subtype": "Zero Point Module",
+    "type": "Component",
+    "marketName": "Galactic Trade Hub",
+    "buy": "20000.000",
+    "sell": "43642.500",
+    "stock": "1.0000"
+  },
+  {
+    "subtype": "Hydrogen Bottle",
+    "type": "GasContainerObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "232.880",
+    "sell": "261.990",
+    "stock": "652.0000"
+  },
+  {
+    "subtype": "Oxygen Bottle",
+    "type": "GasContainerObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "232.880",
+    "sell": "261.990",
+    "stock": "334.0000"
+  },
+  {
+    "subtype": "Cobalt Ingot",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "5.419",
+    "sell": "7.530",
+    "stock": "12519.0176"
+  },
+  {
+    "subtype": "Gold Ingot",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "34.358",
+    "sell": "54.326",
+    "stock": "703.0822"
+  },
+  {
+    "subtype": "Gravel",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.001",
+    "sell": "0.190",
+    "stock": "4393194.6383"
+  },
+  {
+    "subtype": "Iron Ingot",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.004",
+    "sell": "0.200",
+    "stock": "698738.5621"
+  },
+  {
+    "subtype": "Magnesium Powder",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "9.837",
+    "sell": "12.300",
+    "stock": "6220.3475"
+  },
+  {
+    "subtype": "Naquadah Ingot",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "12.100",
+    "sell": "21.094",
+    "stock": "0.0000"
+  },
+  {
+    "subtype": "Neutronium Ingot",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.081",
+    "sell": "16.500",
+    "stock": "48103.9917"
+  },
+  {
+    "subtype": "Nickel Ingot",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "6.200",
+    "sell": "6.750",
+    "stock": "1180.4739"
+  },
+  {
+    "subtype": "Old Scrap Metal",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.110",
+    "sell": "0.189",
+    "stock": "0.0000"
+  },
+  {
+    "subtype": "Platinum Ingot",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "12.200",
+    "sell": "62.268",
+    "stock": "615.4790"
+  },
+  {
+    "subtype": "Silicon Wafer",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "3.501",
+    "sell": "4.300",
+    "stock": "6764.7262"
+  },
+  {
+    "subtype": "Silver Ingot",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "6.561",
+    "sell": "9.080",
+    "stock": "27328.5637"
+  },
+  {
+    "subtype": "Trinium Ingot",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "1.000",
+    "sell": "12.100",
+    "stock": "2988.5029"
+  },
+  {
+    "subtype": "Uranium Ingot",
+    "type": "Ingot",
+    "marketName": "Galactic Trade Hub",
+    "buy": "11.500",
+    "sell": "12.260",
+    "stock": "1789.1041"
+  },
+  {
+    "subtype": "Cobalt Ore",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.025",
+    "sell": "1.810",
+    "stock": "21711751.3260"
+  },
+  {
+    "subtype": "Gold Ore",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.012",
+    "sell": "0.491",
+    "stock": "1193027.8694"
+  },
+  {
+    "subtype": "Ice",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.012",
+    "sell": "0.227",
+    "stock": "2658390.4387"
+  },
+  {
+    "subtype": "Iron Ore",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.001",
+    "sell": "0.110",
+    "stock": "2099584.5618"
+  },
+  {
+    "subtype": "Magnesium Ore",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.081",
+    "sell": "0.280",
+    "stock": "11000.0000"
+  },
+  {
+    "subtype": "Naquadah Ore",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.012",
+    "sell": "2.800",
+    "stock": "1039748.1739"
+  },
+  {
+    "subtype": "Neutronium Ore",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.001",
+    "sell": "3.637",
+    "stock": "0.0000"
+  },
+  {
+    "subtype": "Nickel Ore",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.019",
+    "sell": "1.450",
+    "stock": "19630991.3946"
+  },
+  {
+    "subtype": "Platinum Ore",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.045",
+    "sell": "2.432",
+    "stock": "7871749.4680"
+  },
+  {
+    "subtype": "Scrap Metal",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.110",
+    "sell": "0.130",
+    "stock": "693.9810"
+  },
+  {
+    "subtype": "Silicon Ore",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.019",
+    "sell": "1.980",
+    "stock": "3513441.4099"
+  },
+  {
+    "subtype": "Silver Ore",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.025",
+    "sell": "0.730",
+    "stock": "6629473.2354"
+  },
+  {
+    "subtype": "Stone",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.000",
+    "sell": "0.005",
+    "stock": "23462995.4202"
+  },
+  {
+    "subtype": "Trinium Ore",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.043",
+    "sell": "2.100",
+    "stock": "337336.8093"
+  },
+  {
+    "subtype": "Uranium Ore",
+    "type": "Ore",
+    "marketName": "Galactic Trade Hub",
+    "buy": "0.011",
+    "sell": "1.481",
+    "stock": "589880.5737"
+  },
+  {
+    "subtype": "Automatic Rifle",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "20.000",
+    "sell": "126.500",
+    "stock": "30.0000"
+  },
+  {
+    "subtype": "Elite Automatic Rifle",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "120.000",
+    "sell": "253.000",
+    "stock": "31.0000"
+  },
+  {
+    "subtype": "Elite Grinder",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "60.000",
+    "sell": "91.080",
+    "stock": "44.0000"
+  },
+  {
+    "subtype": "Elite Hand Drill",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "67.000",
+    "sell": "93.610",
+    "stock": "47.0000"
+  },
+  {
+    "subtype": "Elite Welder",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "60.000",
+    "sell": "104.742",
+    "stock": "10.0000"
+  },
+  {
+    "subtype": "Enhanced Grinder",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "52.000",
+    "sell": "62.700",
+    "stock": "85.0000"
+  },
+  {
+    "subtype": "Enhanced Hand Drill",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "49.000",
+    "sell": "59.400",
+    "stock": "57.0000"
+  },
+  {
+    "subtype": "Enhanced Welder",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "19.000",
+    "sell": "23.573",
+    "stock": "76.0000"
+  },
+  {
+    "subtype": "Grinder",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "19.780",
+    "sell": "29.120",
+    "stock": "49.0000"
+  },
+  {
+    "subtype": "Hand Drill",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "40.000",
+    "sell": "44.000",
+    "stock": "148.0000"
+  },
+  {
+    "subtype": "Jaffa Staff Weapon",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "350.000",
+    "sell": "567.353",
+    "stock": "1.0000"
+  },
+  {
+    "subtype": "Precise Automatic Rifle",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "48.000",
+    "sell": "132.000",
+    "stock": "84.0000"
+  },
+  {
+    "subtype": "Proficient Grinder",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "44.000",
+    "sell": "49.000",
+    "stock": "160.0000"
+  },
+  {
+    "subtype": "Proficient Hand Drill",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "60.000",
+    "sell": "66.000",
+    "stock": "261.0000"
+  },
+  {
+    "subtype": "Proficient Welder",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "28.570",
+    "sell": "32.900",
+    "stock": "152.0000"
+  },
+  {
+    "subtype": "Rapid-Fire Automatic Rifle",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "60.000",
+    "sell": "176.000",
+    "stock": "99.0000"
+  },
+  {
+    "subtype": "Stargate P90",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "210.000",
+    "sell": "363.688",
+    "stock": "1.0000"
+  },
+  {
+    "subtype": "Welder",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "3.220",
+    "sell": "24.110",
+    "stock": "1036.0000"
+  },
+  {
+    "subtype": "Zat'nik'tel",
+    "type": "PhysicalGunObject",
+    "marketName": "Galactic Trade Hub",
+    "buy": "280.000",
+    "sell": "480.068",
+    "stock": "1.0000"
+  }
+]
