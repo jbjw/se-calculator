@@ -2,13 +2,15 @@ AmmoMagazines.sbc is just for mass and volume of magazine items
 PhysicalItems.sbc is just for mass and volume of ores, tools
 Components.sbc is just for mass and volume of components
 
-Blueprints.sbc contains ore refining info, ingredients, components, etc
+Blueprints.sbc contains recipes (stuff needed to make copmonents, and also refining info)
 
 CubeBlocks.sbc is for built blocks, contains needed components and build times
 
-items.json contains info on all items, ingredients, mass, etc
+items.json
+created by generator.js
+contains info on all items, ingredients, mass, etc
 
-prices.json contains prices for everything
+item_prices.json contains prices for everything
 
 Blueprints
 ===
