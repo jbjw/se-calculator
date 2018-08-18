@@ -22,7 +22,7 @@ function dump(path, json) {
 }
 
 
-var itemPrices = fs.readFileSync( "item_prices.json" )
+// var itemPrices = fs.readFileSync( "item_prices.json" )
 
 
 // AmmoMagazines.sbc is just for mass and volume of magazine items

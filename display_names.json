@@ -1,266 +1,398 @@
 [
 	{
-		"id": "Missile200mm_AmmoMagazine",
-		"displayName": "200mm missile container"
+		"subtype": "AmmoMagazine",
+		"type": "Missile200mm",
+		"subtype_type": "AmmoMagazine_Missile200mm",
+		"display_name": "200mm missile container"
 	},
 	{
-		"id": "NATO_25x184mm_AmmoMagazine",
-		"displayName": "25x184mm NATO ammo container"
+		"subtype": "AmmoMagazine",
+		"type": "NATO_25x184mm",
+		"subtype_type": "AmmoMagazine_NATO_25x184mm",
+		"display_name": "25x184mm NATO ammo container"
 	},
 	{
-		"id": "NATO_5p56x45mm_AmmoMagazine",
-		"displayName": "5.56x45mm NATO magazine"
+		"subtype": "AmmoMagazine",
+		"type": "NATO_5p56x45mm",
+		"subtype_type": "AmmoMagazine_NATO_5p56x45mm",
+		"display_name": "5.56x45mm NATO magazine"
 	},
 	{
-		"id": "HydrogenBottle_GasContainerObject",
-		"displayName": "Hydrogen Bottle"
+		"subtype": "GasContainerObject",
+		"type": "HydrogenBottle",
+		"subtype_type": "GasContainerObject_HydrogenBottle",
+		"display_name": "Hydrogen Bottle"
 	},
 	{
-		"id": "OxygenBottle_GasContainerObject",
-		"displayName": "Oxygen Bottle"
+		"subtype": "GasContainerObject",
+		"type": "OxygenBottle",
+		"subtype_type": "GasContainerObject_OxygenBottle",
+		"display_name": "Oxygen Bottle"
 	},
 	{
-		"id": "AutomaticRifleItem_PhysicalGunObject",
-		"displayName": "Automatic Rifle"
+		"subtype": "PhysicalGunObject",
+		"type": "AutomaticRifleItem",
+		"subtype_type": "PhysicalGunObject_AutomaticRifleItem",
+		"display_name": "Automatic Rifle"
 	},
 	{
-		"id": "UltimateAutomaticRifleItem_PhysicalGunObject",
-		"displayName": "Elite Automatic Rifle"
+		"subtype": "PhysicalGunObject",
+		"type": "UltimateAutomaticRifleItem",
+		"subtype_type": "PhysicalGunObject_UltimateAutomaticRifleItem",
+		"display_name": "Elite Automatic Rifle"
 	},
 	{
-		"id": "AngleGrinder4Item_PhysicalGunObject",
-		"displayName": "Elite Grinder"
+		"subtype": "PhysicalGunObject",
+		"type": "AngleGrinder4Item",
+		"subtype_type": "PhysicalGunObject_AngleGrinder4Item",
+		"display_name": "Elite Grinder"
 	},
 	{
-		"id": "HandDrill4Item_PhysicalGunObject",
-		"displayName": "Elite Hand Drill"
+		"subtype": "PhysicalGunObject",
+		"type": "HandDrill4Item",
+		"subtype_type": "PhysicalGunObject_HandDrill4Item",
+		"display_name": "Elite Hand Drill"
 	},
 	{
-		"id": "Welder4Item_PhysicalGunObject",
-		"displayName": "Elite Welder"
+		"subtype": "PhysicalGunObject",
+		"type": "Welder4Item",
+		"subtype_type": "PhysicalGunObject_Welder4Item",
+		"display_name": "Elite Welder"
 	},
 	{
-		"id": "AngleGrinder2Item_PhysicalGunObject",
-		"displayName": "Enhanced Grinder"
+		"subtype": "PhysicalGunObject",
+		"type": "AngleGrinder2Item",
+		"subtype_type": "PhysicalGunObject_AngleGrinder2Item",
+		"display_name": "Enhanced Grinder"
 	},
 	{
-		"id": "HandDrill2Item_PhysicalGunObject",
-		"displayName": "Enhanced Hand Drill"
+		"subtype": "PhysicalGunObject",
+		"type": "HandDrill2Item",
+		"subtype_type": "PhysicalGunObject_HandDrill2Item",
+		"display_name": "Enhanced Hand Drill"
 	},
 	{
-		"id": "Welder2Item_PhysicalGunObject",
-		"displayName": "Enhanced Welder"
+		"subtype": "PhysicalGunObject",
+		"type": "Welder2Item",
+		"subtype_type": "PhysicalGunObject_Welder2Item",
+		"display_name": "Enhanced Welder"
 	},
 	{
-		"id": "AngleGrinderItem_PhysicalGunObject",
-		"displayName": "Grinder"
+		"subtype": "PhysicalGunObject",
+		"type": "AngleGrinderItem",
+		"subtype_type": "PhysicalGunObject_AngleGrinderItem",
+		"display_name": "Grinder"
 	},
 	{
-		"id": "HandDrillItem_PhysicalGunObject",
-		"displayName": "Hand Drill"
+		"subtype": "PhysicalGunObject",
+		"type": "HandDrillItem",
+		"subtype_type": "PhysicalGunObject_HandDrillItem",
+		"display_name": "Hand Drill"
 	},
 	{
-		"id": "PreciseAutomaticRifleItem_PhysicalGunObject",
-		"displayName": "Precise Automatic Rifle"
+		"subtype": "PhysicalGunObject",
+		"type": "PreciseAutomaticRifleItem",
+		"subtype_type": "PhysicalGunObject_PreciseAutomaticRifleItem",
+		"display_name": "Precise Automatic Rifle"
 	},
 	{
-		"id": "AngleGrinder3Item_PhysicalGunObject",
-		"displayName": "Proficient Grinder"
+		"subtype": "PhysicalGunObject",
+		"type": "AngleGrinder3Item",
+		"subtype_type": "PhysicalGunObject_AngleGrinder3Item",
+		"display_name": "Proficient Grinder"
 	},
 	{
-		"id": "HandDrill3Item_PhysicalGunObject",
-		"displayName": "Proficient Hand Drill"
+		"subtype": "PhysicalGunObject",
+		"type": "HandDrill3Item",
+		"subtype_type": "PhysicalGunObject_HandDrill3Item",
+		"display_name": "Proficient Hand Drill"
 	},
 	{
-		"id": "Welder3Item_PhysicalGunObject",
-		"displayName": "Proficient Welder"
+		"subtype": "PhysicalGunObject",
+		"type": "Welder3Item",
+		"subtype_type": "PhysicalGunObject_Welder3Item",
+		"display_name": "Proficient Welder"
 	},
 	{
-		"id": "RapidFireAutomaticRifleItem_PhysicalGunObject",
-		"displayName": "Rapid-Fire Automatic Rifle"
+		"subtype": "PhysicalGunObject",
+		"type": "RapidFireAutomaticRifleItem",
+		"subtype_type": "PhysicalGunObject_RapidFireAutomaticRifleItem",
+		"display_name": "Rapid-Fire Automatic Rifle"
 	},
 	{
-		"id": "WelderItem_PhysicalGunObject",
-		"displayName": "Welder"
+		"subtype": "PhysicalGunObject",
+		"type": "WelderItem",
+		"subtype_type": "PhysicalGunObject_WelderItem",
+		"display_name": "Welder"
 	},
 	{
-		"id": "Cobalt_Ore",
-		"displayName": "Cobalt Ore"
+		"subtype": "Ore",
+		"type": "Cobalt",
+		"subtype_type": "Ore_Cobalt",
+		"display_name": "Cobalt Ore"
 	},
 	{
-		"id": "Gold_Ore",
-		"displayName": "Gold Ore"
+		"subtype": "Ore",
+		"type": "Gold",
+		"subtype_type": "Ore_Gold",
+		"display_name": "Gold Ore"
 	},
 	{
-		"id": "Ice_Ore",
-		"displayName": "Ice"
+		"subtype": "Ore",
+		"type": "Ice",
+		"subtype_type": "Ore_Ice",
+		"display_name": "Ice"
 	},
 	{
-		"id": "Iron_Ore",
-		"displayName": "Iron Ore"
+		"subtype": "Ore",
+		"type": "Iron",
+		"subtype_type": "Ore_Iron",
+		"display_name": "Iron Ore"
 	},
 	{
-		"id": "Magnesium_Ore",
-		"displayName": "Magnesium Ore"
+		"subtype": "Ore",
+		"type": "Magnesium",
+		"subtype_type": "Ore_Magnesium",
+		"display_name": "Magnesium Ore"
 	},
 	{
-		"id": "Nickel_Ore",
-		"displayName": "Nickel Ore"
+		"subtype": "Ore",
+		"type": "Nickel",
+		"subtype_type": "Ore_Nickel",
+		"display_name": "Nickel Ore"
 	},
 	{
-		"id": "Platinum_Ore",
-		"displayName": "Platinum Ore"
+		"subtype": "Ore",
+		"type": "Platinum",
+		"subtype_type": "Ore_Platinum",
+		"display_name": "Platinum Ore"
 	},
 	{
-		"id": "Scrap_Ore",
-		"displayName": "Scrap metal"
+		"subtype": "Ore",
+		"type": "Scrap",
+		"subtype_type": "Ore_Scrap",
+		"display_name": "Scrap metal"
 	},
 	{
-		"id": "Silicon_Ore",
-		"displayName": "Silicon Ore"
+		"subtype": "Ore",
+		"type": "Silicon",
+		"subtype_type": "Ore_Silicon",
+		"display_name": "Silicon Ore"
 	},
 	{
-		"id": "Silver_Ore",
-		"displayName": "Silver Ore"
+		"subtype": "Ore",
+		"type": "Silver",
+		"subtype_type": "Ore_Silver",
+		"display_name": "Silver Ore"
 	},
 	{
-		"id": "Stone_Ore",
-		"displayName": "Stone"
+		"subtype": "Ore",
+		"type": "Stone",
+		"subtype_type": "Ore_Stone",
+		"display_name": "Stone"
 	},
 	{
-		"id": "Uranium_Ore",
-		"displayName": "Uranium Ore"
+		"subtype": "Ore",
+		"type": "Uranium",
+		"subtype_type": "Ore_Uranium",
+		"display_name": "Uranium Ore"
 	},
 	{
-		"id": "Cobalt_Ingot",
-		"displayName": "Cobalt Ingot"
+		"subtype": "Ingot",
+		"type": "Cobalt",
+		"subtype_type": "Ingot_Cobalt",
+		"display_name": "Cobalt Ingot"
 	},
 	{
-		"id": "Gold_Ingot",
-		"displayName": "Gold Ingot"
+		"subtype": "Ingot",
+		"type": "Gold",
+		"subtype_type": "Ingot_Gold",
+		"display_name": "Gold Ingot"
 	},
 	{
-		"id": "Gravel_Ingot",
-		"displayName": "Gravel"
+		"subtype": "Ingot",
+		"type": "Gravel",
+		"subtype_type": "Ingot_Gravel",
+		"display_name": "Gravel"
 	},
 	{
-		"id": "Iron_Ingot",
-		"displayName": "Iron Ingot"
+		"subtype": "Ingot",
+		"type": "Iron",
+		"subtype_type": "Ingot_Iron",
+		"display_name": "Iron Ingot"
 	},
 	{
-		"id": "Magnesium_Ingot",
-		"displayName": "Magnesium Powder"
+		"subtype": "Ingot",
+		"type": "Magnesium",
+		"subtype_type": "Ingot_Magnesium",
+		"display_name": "Magnesium Powder"
 	},
 	{
-		"id": "Nickel_Ingot",
-		"displayName": "Nickel Ingot"
+		"subtype": "Ingot",
+		"type": "Nickel",
+		"subtype_type": "Ingot_Nickel",
+		"display_name": "Nickel Ingot"
 	},
 	{
-		"id": "Scrap_Ingot",
-		"displayName": "Old Scrap metal"
+		"subtype": "Ingot",
+		"type": "Scrap",
+		"subtype_type": "Ingot_Scrap",
+		"display_name": "Old Scrap metal"
 	},
 	{
-		"id": "Platinum_Ingot",
-		"displayName": "Platinum Ingot"
+		"subtype": "Ingot",
+		"type": "Platinum",
+		"subtype_type": "Ingot_Platinum",
+		"display_name": "Platinum Ingot"
 	},
 	{
-		"id": "Silicon_Ingot",
-		"displayName": "Silicon Wafer"
+		"subtype": "Ingot",
+		"type": "Silicon",
+		"subtype_type": "Ingot_Silicon",
+		"display_name": "Silicon Wafer"
 	},
 	{
-		"id": "Silver_Ingot",
-		"displayName": "Silver Ingot"
+		"subtype": "Ingot",
+		"type": "Silver",
+		"subtype_type": "Ingot_Silver",
+		"display_name": "Silver Ingot"
 	},
 	{
-		"id": "Uranium_Ingot",
-		"displayName": "Uranium Ingot"
+		"subtype": "Ingot",
+		"type": "Uranium",
+		"subtype_type": "Ingot_Uranium",
+		"display_name": "Uranium Ingot"
 	},
 	{
-		"id": "BulletproofGlass_Component",
-		"displayName": "Bulletproof Glass"
+		"subtype": "Component",
+		"type": "BulletproofGlass",
+		"subtype_type": "Component_BulletproofGlass",
+		"display_name": "Bulletproof Glass"
 	},
 	{
-		"id": "Canvas_Component",
-		"displayName": "Canvas"
+		"subtype": "Component",
+		"type": "Canvas",
+		"subtype_type": "Component_Canvas",
+		"display_name": "Canvas"
 	},
 	{
-		"id": "Computer_Component",
-		"displayName": "Computer"
+		"subtype": "Component",
+		"type": "Computer",
+		"subtype_type": "Component_Computer",
+		"display_name": "Computer"
 	},
 	{
-		"id": "Construction_Component",
-		"displayName": "Construction Component"
+		"subtype": "Component",
+		"type": "Construction",
+		"subtype_type": "Component_Construction",
+		"display_name": "Construction Component"
 	},
 	{
-		"id": "Detector_Component",
-		"displayName": "Detector Components"
+		"subtype": "Component",
+		"type": "Detector",
+		"subtype_type": "Component_Detector",
+		"display_name": "Detector Components"
 	},
 	{
-		"id": "Display_Component",
-		"displayName": "Display"
+		"subtype": "Component",
+		"type": "Display",
+		"subtype_type": "Component_Display",
+		"display_name": "Display"
 	},
 	{
-		"id": "Explosives_Component",
-		"displayName": "Explosives"
+		"subtype": "Component",
+		"type": "Explosives",
+		"subtype_type": "Component_Explosives",
+		"display_name": "Explosives"
 	},
 	{
-		"id": "Girder_Component",
-		"displayName": "Girder"
+		"subtype": "Component",
+		"type": "Girder",
+		"subtype_type": "Component_Girder",
+		"display_name": "Girder"
 	},
 	{
-		"id": "GravityGenerator_Component",
-		"displayName": "Gravity Generator Components"
+		"subtype": "Component",
+		"type": "GravityGenerator",
+		"subtype_type": "Component_GravityGenerator",
+		"display_name": "Gravity Generator Components"
 	},
 	{
-		"id": "InteriorPlate_Component",
-		"displayName": "Interior Plate"
+		"subtype": "Component",
+		"type": "InteriorPlate",
+		"subtype_type": "Component_InteriorPlate",
+		"display_name": "Interior Plate"
 	},
 	{
-		"id": "LargeTube_Component",
-		"displayName": "Large Steel Tube"
+		"subtype": "Component",
+		"type": "LargeTube",
+		"subtype_type": "Component_LargeTube",
+		"display_name": "Large Steel Tube"
 	},
 	{
-		"id": "Medical_Component",
-		"displayName": "Medical Components"
+		"subtype": "Component",
+		"type": "Medical",
+		"subtype_type": "Component_Medical",
+		"display_name": "Medical Components"
 	},
 	{
-		"id": "MetalGrid_Component",
-		"displayName": "Metal Grid"
+		"subtype": "Component",
+		"type": "MetalGrid",
+		"subtype_type": "Component_MetalGrid",
+		"display_name": "Metal Grid"
 	},
 	{
-		"id": "Motor_Component",
-		"displayName": "Motor"
+		"subtype": "Component",
+		"type": "Motor",
+		"subtype_type": "Component_Motor",
+		"display_name": "Motor"
 	},
 	{
-		"id": "PowerCell_Component",
-		"displayName": "Power Cell"
+		"subtype": "Component",
+		"type": "PowerCell",
+		"subtype_type": "Component_PowerCell",
+		"display_name": "Power Cell"
 	},
 	{
-		"id": "RadioCommunication_Component",
-		"displayName": "Radio-communication Components"
+		"subtype": "Component",
+		"type": "RadioCommunication",
+		"subtype_type": "Component_RadioCommunication",
+		"display_name": "Radio-communication Components"
 	},
 	{
-		"id": "Reactor_Component",
-		"displayName": "Reactor Components"
+		"subtype": "Component",
+		"type": "Reactor",
+		"subtype_type": "Component_Reactor",
+		"display_name": "Reactor Components"
 	},
 	{
-		"id": "SmallTube_Component",
-		"displayName": "Small Steel Tube"
+		"subtype": "Component",
+		"type": "SmallTube",
+		"subtype_type": "Component_SmallTube",
+		"display_name": "Small Steel Tube"
 	},
 	{
-		"id": "SolarCell_Component",
-		"displayName": "Solar Cell"
+		"subtype": "Component",
+		"type": "SolarCell",
+		"subtype_type": "Component_SolarCell",
+		"display_name": "Solar Cell"
 	},
 	{
-		"id": "SteelPlate_Component",
-		"displayName": "Steel Plate"
+		"subtype": "Component",
+		"type": "SteelPlate",
+		"subtype_type": "Component_SteelPlate",
+		"display_name": "Steel Plate"
 	},
 	{
-		"id": "Superconductor_Component",
-		"displayName": "Superconductor Conduits"
+		"subtype": "Component",
+		"type": "Superconductor",
+		"subtype_type": "Component_Superconductor",
+		"display_name": "Superconductor Conduits"
 	},
 	{
-		"id": "Thrust_Component",
-		"displayName": "Thruster Components"
+		"subtype": "Component",
+		"type": "Thrust",
+		"subtype_type": "Component_Thrust",
+		"display_name": "Thruster Components"
 	}
 ]

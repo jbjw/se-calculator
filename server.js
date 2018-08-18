@@ -39,14 +39,14 @@ function httpsRedirect(req, res, next) {
 const app = express()
 
 app.use( log )
-app.use(express.static('.', {index: 'index.html'}))
+app.use(express.static('./client', {index: 'index.html'}))
 // app.use( httpsRedirect )
 
 const httpServer = http.createServer( app );
 // const httpsServer = https.createServer(options, app);
 
 // you can chain createServer().listen()
-
+b
 httpServer.listen( httpPort, function () {
 	console.log( `http listening on port ${httpPort}` )
 } )

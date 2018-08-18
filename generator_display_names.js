@@ -10,8 +10,10 @@ var displayNames = []
 
 for ( let x of displayNamesRaw ) {
 	var tmp = {}
-	tmp.id = x.id
-	tmp.displayName = x.displayname
+	tmp["subtype"] = x["subtype"]
+	tmp["type"] = x["type"]
+	tmp["subtype_type"] = x["subtype"] + "_" + x["type"]
+	tmp["display_name"] = x["displayname"]
 	displayNames.push( tmp )
 }
 
