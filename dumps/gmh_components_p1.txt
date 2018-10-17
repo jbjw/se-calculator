@@ -1,0 +1,33 @@
+Galactic Mining Hub
+
+« Market List                                                       Buy                Sell                            Stock »
+
+Bulletproof Glass                                           30.000          60.000                 368536.0000
+
+Canvas                                                           23.000           37.300                     3200.0000
+
+Computer                                                         0.860             0.970                     4000.0000
+
+Construction Component                                  1.780             2.000                           0.0000
+
+Detector Components                                     10.000          90.000                      7218.0000
+
+Display                                                           19.540           21.990                     16936.0000
+
+Explosives                                                      41.230           46.380                     2000.0000
+
+Girder                                                                1.240              1.400                     2000.0000
+
+Gravity Generator Components                   1706.810        1920.160                    10525.0000
+
+Interior Plate                                                    0.630             0.830                    10000.0000
+
+Large Steel Tube                                              5.340            6.000                            0.0000
+
+Medical Components                                   479.755        666.320                    18089.0000
+
+Metal Grid                                                      34.242           58.720                   53628.0000
+
+Motor                                                              33.540           37.740                   52572.0000
+
+Naquadah Component                                      1.000          45.800                            0.0000

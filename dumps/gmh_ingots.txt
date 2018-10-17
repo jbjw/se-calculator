@@ -1,0 +1,31 @@
+Galactic Mining Hub
+
+« Market List                                                       Buy                Sell                            Stock »
+
+Cobalt Ingot                                                     4.690             7.530                  843839.7443
+
+Gold Ingot                                                        14.358          34.326                            0.0000
+
+Gravel                                                                0.001             0.190                            0.0000
+
+Iron Ingot                                                           0.061            0.200                            0.0000
+
+Magnesium Powder                                       10.930            12.300                           0.0000
+
+Naquadah Ingot                                                8.100            14.500                           0.0000
+
+Neutronium Ingot                                              0.100           16.500                            0.0000
+
+Nickel Ingot                                                     4.200             6.750                3278898.9781
+
+Old Scrap Metal                                                 0.110              0.130                           0.0000
+
+Platinum Ingot                                                18.200          62.268                            0.0000
+
+Silicon Wafer                                                   3.890            4.300                 4927631.7525
+
+Silver Ingot                                                       8.100             9.080                           0.0000
+
+Trinium Ingot                                                     1.000            12.100                            0.0000
+
+Uranium Ingot                                                  11.500           12.260                            0.0000

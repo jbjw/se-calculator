@@ -1,0 +1,23 @@
+Galactic Mining Hub
+
+« Market List (From item #16.)                            Buy                Sell                            Stock »
+
+Neutronium Crate                                           87.700         105.300                            0.0000
+
+Power Cell                                                      14.297           19.850                            0.0000
+
+Radio-communication Compone…                 5.300             5.960                           0.0000
+
+Reactor Components                                     46.420          52.230                     34137.0000
+
+Small Steel Tube                                             0.890             1.000                            0.0000
+
+Solar Cell                                                        73.678         102.330                   23474.0000
+
+Steel Plate                                                       4.730             5.200                1184680.0000
+
+Superconductor Conduits                                17.817         180.840                       8313.0000
+
+Thruster Components                                   180.000        190.000                    97472.0000
+
+Trinium Plate                                                    1.000           41.800                            0.0000

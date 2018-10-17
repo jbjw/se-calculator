@@ -1,0 +1,31 @@
+GTH
+
+« Market List                                                       Buy                Sell                            Stock »
+
+Cobalt Ingot                                                       0.415            7.530                    919417.2294
+
+Gold Ingot                                                          2.616          43.500                286098.9005
+
+Gravel                                                                0.018            0.028                            0.0000
+
+Iron Ingot                                                           0.180             0.291                            0.0000
+
+Magnesium Powder                                       10.930          26.030                            0.0000
+
+Naquadah Ingot                                               5.889            13.820                           0.0000
+
+Neutronium Ingot                                             0.065            2.546                            0.0000
+
+Nickel Ingot                                                      0.384            6.750                   743210.5203
+
+Old Scrap Metal                                                 0.110             0.189                            0.0000
+
+Platinum Ingot                                               64.800          94.850                            0.0000
+
+Silicon Wafer                                                    0.241            4.300                  2732911.7279
+
+Silver Ingot                                                       8.100            13.209                            0.0000
+
+Trinium Ingot                                                     0.091            4.088                            0.0000
+
+Uranium Ingot                                                  14.100           21.094                            0.0000

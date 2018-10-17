@@ -1,0 +1,33 @@
+GTH
+
+« Market List                                                       Buy                Sell                            Stock »
+
+Cobalt Ore                                                         0.150             0.247                           0.0000
+
+Gold Ore                                                           0.047              0.814               48730195.9107
+
+Ice                                                                    0.226             0.330                           0.0000
+
+Iron Ore                                                              0.110            0.269                            0.0000
+
+Magnesium Ore                                               0.390             0.582                           0.0000
+
+Naquadah Ore                                                  0.600             2.037                           0.0000
+
+Neutronium Ore                                                0.010             0.032                            0.0000
+
+Nickel Ore                                                          0.110             0.189                            0.0000
+
+Platinum Ore                                                    0.050             1.022              14958695.6287
+
+Scrap Metal                                                       0.110              0.189                            0.0000
+
+Silicon Ore                                                        0.015            0.280                 8508373.1852
+
+Silver Ore                                                         0.540             0.873                           0.0000
+
+Stone                                                               0.004             0.007                            0.0000
+
+Trinium Ore                                                      0.030             0.051                            0.0000
+
+Uranium Ore                                                     0.200            0.349                            0.0000

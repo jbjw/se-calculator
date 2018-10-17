@@ -1,0 +1,33 @@
+Galactic Mining Hub
+
+« Market List                                                       Buy                Sell                            Stock »
+
+Cobalt Ore                                                         0.190            0.300                            0.0000
+
+Gold Ore                                                           0.260            0.700               13727534.9280
+
+Ice                                                                    0.207             0.227              58178869.9398
+
+Iron Ore                                                             0.100               0.110              8644324.3804
+
+Magnesium Ore                                               0.280            0.480                            0.0000
+
+Naquadah Ore                                                  0.200            0.400                            0.0000
+
+Neutronium Ore                                               0.450             0.538                            0.0000
+
+Nickel Ore                                                         0.170             0.250              75727503.1056
+
+Platinum Ore                                                    0.730             0.953            39652603.4954
+
+Scrap Metal                                                       0.110              0.130                            0.0000
+
+Silicon Ore                                                        0.190            0.800                9000000.0591
+
+Silver Ore                                                         0.420            0.962                            0.0000
+
+Stone                                                               0.006             0.008                     3008.5850
+
+Trinium Ore                                                       0.170             0.320                            0.0000
+
+Uranium Ore                                                     0.250             0.581                            0.0000

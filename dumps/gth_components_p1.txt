@@ -1,0 +1,33 @@
+GTH
+
+« Market List                                                       Buy                Sell                            Stock »
+
+Bulletproof Glass                                             9.295          60.000                  153720.0000
+
+Canvas                                                            31.266           38.700                   36264.0000
+
+Computer                                                         0.860                1.411                            0.0000
+
+Construction Component                                  1.780              2.910                           0.0000
+
+Detector Components                                      3.098          90.000                  126700.0000
+
+Display                                                            6.054            21.990                   121877.0000
+
+Explosives                                                      33.396          46.380                     12916.0000
+
+GalaxyNewsTVPlate                                   7781.000       9737.189                           61.0000
+
+Girder                                                                1.240             2.037                            0.0000
+
+Gravity Generator Components                   1382.516        1920.160                    18925.0000
+
+Interior Plate                                                     1.000              1.527                           0.0000
+
+Large Steel Tube                                             6.600            10.038                           0.0000
+
+Medical Components                                  388.602        666.320                    33606.0000
+
+Metal Grid                                                       44.615          65.400                    53726.0000
+
+Motor                                                              23.092          37.740                   50554.0000
